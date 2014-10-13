@@ -1,0 +1,50 @@
+---
+layout: default
+title: Home
+subtitle: "#Emocionart es una acción de Artinpocket para promocionar e impulsar la compra de arte"
+subsubtitle: 01/10 - 31/12
+subsubsubtitle: BCN 2014
+category: mur-diari
+---
+
+<div class="home-title">
+  <h1 class="text-center">{{ page.subtitle }}</h1>
+  <h2 class="text-center">{{ page.subsubtitle }}</h2>
+  <h3 class="text-center">{{ page.subsubsubtitle }}</h3>
+</div>
+
+<h1>Analógico</h1>
+<div class="posts">
+  {% for post in site.categories['emocionart-analogic'] reversed %}
+  <div class="post">
+
+    {{ post.excerpt }}    
+
+  <h2 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    
+    </div>
+  {% endfor %}
+</div>
+<br style="clear:both">
+<hr/>
+<h1>Digital</h1>
+<div class="posts">
+  {% for post in site.categories['emocionart-digital'] reversed %}
+  <div class="post">
+
+    {{ post.excerpt }}    
+
+  <h2 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    
+    </div>
+  {% endfor %}
+</div>
+

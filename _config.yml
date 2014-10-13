@@ -1,0 +1,60 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            '#Emocionart'
+tagline:          'Descubre, emociónate y compra obras de arte'
+description:      "#Emocionart es una acción de Artinpocket para promocionar e impulsar la compra de arte. Durante tres meses la plataforma impulsará diferentes acciones con el objetivo de acercar el arte e incentivar la compra obras originales a precios asequibles. Con esta acción se pretende romper falsos mítos: ¿el arte es caro? ¡No siempre! ¿El Arte es para una minoría? ¡Falso!"
+url:              http://www.emocio-nart.com
+icon:             Artinpocket_Icon_Pocket.png
+
+author:
+  name:           'Ramon Gil'
+  url:            https://twitter.com/freecates
+
+paginate:         8
+paginate_path:    "blog/page:num"
+
+# Custom vars
+version:          1.0.0
+
+full-shop:
+  repo:           http://www.artinpocket.cat/botiga/
+
+twitter-sentence: "| Disfruta #Emocionart"
+
+organitza:
+  artinpocket:
+    description:  'Artinpocket - organitzadores de #emocionart'
+    logo: "artinpocket-organitzadors-barcelona-digital-art-footer.jpg"
+    url: http://www.artinpocket.cat/
+
+colabora:
+  oxygen:
+    description:  'Oxygen - colaboradores de #emocionart'
+    logo: "oxygen-organitzadors-barcelona-digital-art-footer.jpg"
+    url:  http://www.oxygen.cat/
+
+assets: 
+  baseurl: /public/
+
+# Prose
+prose:
+  rooturl: ''
+  siteurl: 'http://www.emocio-nart.com/'
+  media: 'public/img'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          value: ""
+

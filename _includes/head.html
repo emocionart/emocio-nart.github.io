@@ -1,0 +1,42 @@
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="initial-scale=1, minimal-ui">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"> -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="description" content="{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &ndash; {% if page.category == 'patrocinadors' %}patrocinadors{% endif %}{% if page.category == 'place' %}place{% endif %} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Polymer web components for layout places -->
+  <script src="/bower_components/platform/platform.js"></script>
+  <link rel="import" href="/bower_components/digital-default/digital-default.html">
+  {% if page.title == "Espais d'exposició / Places of exhibition" %}
+  <link rel="import"
+      href="/bower_components/google-map/google-map.html">
+   <style>
+     google-map {
+        display: block;
+        height: 30em;
+      }
+    </style>
+  {% endif %}
+  {% include footer-css-js.html %}
+</head>
