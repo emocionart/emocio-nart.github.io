@@ -960,4 +960,80 @@
     total_sales: "0"
     variations: ""
     parent: ""
-
+  - 
+    title: "Colibrí, flor. Aurembiaix Sabaté, 2014"
+    id: 3287
+    created_at: "2014-10-03T05:18:57Z"
+    updated_at: "2014-10-14T08:39:32Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/colibri-flor-aurembiaix-sabate-2014/"
+    sku: "W579"
+    price: "84.15"
+    regular_price: "99.00"
+    sale_price: "84.15"
+    price_html: "<del><span class=\"amount\">99,00&euro;</span></del> <ins><span class=\"amount\">84,15&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "30.00"
+      width: ""
+      height: "30.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Tinta xinesa i tintes de colors sobre paper fet a mà</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3014
+      - 2610
+      - 2807
+      - 2912
+      - 2709
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Aurembiaix Sabaté. obres petit format"
+    tags: 
+      - "Aurembiaix Sabaté"
+    images: 
+      - 
+        id: 3288
+        created_at: "2014-10-03T05:22:54Z"
+        updated_at: "2014-10-03T05:23:20Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/colibri-flor.jpg"
+        title: "Aurembiaix-colibri-flor"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/colibri-flor.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
