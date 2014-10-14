@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El arte no es caro y menos en Artinpocket #Emocionart y compra arte"
+title: "El arte no es caro y menos en Artinpocket. Emocionart y compra arte"
 share: true
 class2: oferta
 categories:

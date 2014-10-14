@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#EmocionArt amb Aurembiax"
+title: "EmocionArt amb Aurembiax"
 share: true
 class2: oferta
 categories:
