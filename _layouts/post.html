@@ -4,7 +4,7 @@ layout: default
 
 {% if page.class == 'artwork' %}<div itemscope itemtype="http://schema.org/IndividualProduct" itemid="#product" class="post"><link itemprop="additionalType" href="http://www.productontology.org/id/Work_of_art" />{% else %}<div class="post">{% endif %}
   {% if page.class2 == 'oferta' %}
-    <h1 class="post-title"><span itemprop="name">{{ page.title }}</span> <span class="gu">- <a href="/ofertas/">Ofertas</a></span></h1>
+    <h1 class="post-title">{{ page.title }} <span class="gu">- <a href="/ofertas/">Ofertas</a></span></h1>
   {% endif %}
   {% if page.class != 'artwork' and page.class2 != 'oferta' %}
     <h1 class="post-title">{{ page.title }} {% if page.category == 'place' %}<span class="gu">- <a href="/places-of-exhibition/">place</a></span>{% endif %} {% if page.category == 'patrocinadors' %}<span class="gu">- <a href="/patrocinadors/">qui? / who?</a></span>{% endif %}</h1>
