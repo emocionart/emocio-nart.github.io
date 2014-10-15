@@ -51,14 +51,11 @@ To change the radio unchecked color:
 -->
 
 <link rel="import" href="../paper-ripple/paper-ripple.html">
-<link rel="import" href="../core-a11y-keys/core-a11y-keys.html">
 
 <polymer-element name="paper-radio-button" role="radio" tabindex="0" aria-checked="false">
 <template>
 
   <link rel="stylesheet" href="paper-radio-button.css">
-
-  <core-a11y-keys target="{{}}" keys="space" on-keys-pressed="{{tap}}"></core-a11y-keys>
   
   <div id="radioContainer" class="{{ {labeled: label} | tokenList }}">
   
@@ -77,15 +74,9 @@ To change the radio unchecked color:
   Polymer('paper-radio-button', {
     
     /**
-     * Fired when the checked state changes due to user interaction.
-     *
-     * @event change
-     */
-     
-    /**
      * Fired when the checked state changes.
      *
-     * @event core-change
+     * @event change
      */
     
     publish: {
@@ -116,16 +107,7 @@ To change the radio unchecked color:
        * @type boolean
        * @default false
        */
-      toggles: false,
-      
-      /**
-       * If true, the user cannot interact with this element.
-       *
-       * @attribute disabled
-       * @type boolean
-       * @default false
-       */
-      disabled: {value: false, reflect: true}
+      toggles: false
     },
     
     eventDelegates: {
@@ -133,11 +115,8 @@ To change the radio unchecked color:
     },
     
     tap: function() {
-      var old = this.checked;
       this.toggle();
-      if (this.checked !== old) {
-        this.fire('change');
-      }
+      this.fire('paper-radio-button-activate');
     },
     
     toggle: function() {
@@ -147,7 +126,7 @@ To change the radio unchecked color:
     checkedChanged: function() {
       this.$.onRadio.classList.toggle('fill', this.checked);
       this.setAttribute('aria-checked', this.checked ? 'true': 'false');
-      this.fire('core-change');
+      this.fire('change');
     },
     
     labelChanged: function() {

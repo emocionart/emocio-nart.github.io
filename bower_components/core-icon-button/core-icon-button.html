@@ -22,6 +22,7 @@ how to use a custom icon set.
 
 @group Polymer Core Elements
 @element core-icon-button
+@extends core-theme-aware
 @homepage github.io
 -->
 
@@ -31,8 +32,11 @@ how to use a custom icon set.
 <polymer-element name="core-icon-button" attributes="src icon active">
 
   <template>
+
     <link rel="stylesheet" href="core-icon-button.css">
-    <core-icon src="{{src}}" icon="{{icon}}"></core-icon><content></content>
+
+    <core-icon src="{{src}}" icon="{{icon}}"><content></content></core-icon>
+
   </template>
 
   <script>
