@@ -3,9 +3,9 @@ layout: page
 title: Artworks
 category: mur-diari
 ---
-<h2>Analógico</h2>
+<h2>Digital</h2>
 <div class="posts clearfix">
-  {% for post in site.categories['emocionart-analogic'] %}
+  {% for post in site.categories['emocionart-digital'] %}
   <div class="post">
 
     {{ post.excerpt }}    
@@ -20,9 +20,9 @@ category: mur-diari
   {% endfor %}
 </div>
 ---
-<h2>Digital</h2>
+<h2>Analógico</h2>
 <div class="posts clearfix">
-  {% for post in site.categories['emocionart-digital'] %}
+  {% for post in site.categories['emocionart-analogic'] %}
   <div class="post">
 
     {{ post.excerpt }}    
