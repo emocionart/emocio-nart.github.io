@@ -261,7 +261,7 @@ div.item p input.item_Quantity {
   background: rgba(0,0,0,.15);
 }
 .masthead-title a {
-  color: #505050;
+  color: #000000!important;
 }
 .masthead-title small {
   font-size: 75%;
