@@ -96,6 +96,7 @@ figure img {
     background: #ffffff;
     padding: 1rem;
     border-radius: 5px;
+    border: 1px dashed #000000;
 }
 h1 span {
   font-size: 1.5rem;
