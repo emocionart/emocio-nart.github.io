@@ -1037,3 +1037,311 @@
     total_sales: 0
     variations: []
     parent: []
+  - 
+    title: "Silencio. Lola Kabuki, 2014"
+    id: 3350
+    created_at: "2014-10-16T07:26:17Z"
+    updated_at: "2014-10-16T07:38:33Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/silencio-lola-kabuki-2014/"
+    sku: "W803"
+    price: "180.00"
+    regular_price: "180.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">180,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "24"
+      width: ""
+      height: "32"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Esta  pieza de acuarela y tinta sobre papel Canson 200 gr de la joven artista de Portugalete Lola Kabuki  forma parte de la colección \"Incomunicación\"</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2711
+      - 2754
+      - 3342
+      - 2855
+      - 2422
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Lola Kabuki colección Incomunicación"
+    tags: 
+      - "Lola Kabuki"
+    images: 
+      - 
+        id: 3351
+        created_at: "2014-10-16T07:36:28Z"
+        updated_at: "2014-10-16T07:37:23Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/Silencio.jpg"
+        title: "Silencio-Acuarela-Lola-Kabuki"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/Silencio.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Selfie. Lola Kabuki, 2014 "
+    id: 3354
+    created_at: "2014-10-16T07:45:34Z"
+    updated_at: "2014-10-16T08:16:03Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/selfie-lola-kabuki-2014/"
+    sku: "W805"
+    price: "150.00"
+    regular_price: "150.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">150,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "24"
+      width: ""
+      height: "32"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Esta  pieza de acuarela y tinta sobre papel Canson 200 gr de la joven artista de Portugalete Lola Kabuki  forma parte de la colección \"La ciudad también tiene su encanto\"</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2822
+      - 2630
+      - 2840
+      - 2112
+      - 2598
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Lola Kabuki. LA CIUDAD TAMBIÉN TIENE SU ENCANTO"
+    tags: 
+      - "Lola Kabuki"
+    images: 
+      - 
+        id: 3355
+        created_at: "2014-10-16T07:47:37Z"
+        updated_at: "2014-10-16T07:47:52Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/selfie.jpg"
+        title: "Selfie-Acuarela-Lola-Kabuki"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/selfie.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Incomprensión. Lola Kabuki, 2014"
+    id: 3352
+    created_at: "2014-10-16T07:41:35Z"
+    updated_at: "2014-10-16T07:44:58Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/incomprension-lola-kabuki-2014/"
+    sku: "W804"
+    price: "180.00"
+    regular_price: "180.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">180,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "24"
+      width: ""
+      height: "32"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Esta  pieza de acuarela y tinta sobre papel Canson 200 gr de la joven artista de Portugalete Lola Kabuki  forma parte de la colección \"Incomunicación\"</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2968
+      - 3007
+      - 2530
+      - 2904
+      - 2566
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Lola Kabuki colección Incomunicación"
+    tags: 
+      - "Lola Kabuki"
+    images: 
+      - 
+        id: 3353
+        created_at: "2014-10-16T07:43:52Z"
+        updated_at: "2014-10-16T07:44:26Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/Incomprension.jpg"
+        title: "Incomprensión-Acuarela-Lola-Kabuki"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/Incomprension.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Salvatje, Marta Casals Juanola, 2014"
+    id: 3330
+    created_at: "2014-10-14T08:46:01Z"
+    updated_at: "2014-10-14T09:41:08Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/salvatje-marta-casals-juanola-2014/"
+    sku: "W793"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Aquarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2456
+      - 2758
+      - 3059
+      - 2322
+      - 2845
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3331
+        created_at: "2014-10-14T08:47:10Z"
+        updated_at: "2014-10-14T08:47:26Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/mirada.jpg"
+        title: "Marta-Casals Juanola-Salvatje -Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/mirada.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
