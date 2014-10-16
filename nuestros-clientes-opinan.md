@@ -4,7 +4,11 @@ title: "Nuestros clientes opinan"
 published: true
 ---
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/09/Obra-Tura-Cim-III-2012-Artinpocket.jpg" alt="Nuestros clientes opinan. Cim III. Tura Sanz Sanglas, 2012 | #Emocionart" title="Nuestros clientes opinan. Cim III. Tura Sanz Sanglas, 2012 | #Emocionart">
+	<div class="padding-artwork-container">
+		<div class="embed-container embed-container_9-16">
+			<core-image sizing="cover" class="core-image-size" preload fade src="http://www.artinpocket.cat/wp-content/uploads/2014/09/Obra-Tura-Cim-III-2012-Artinpocket.jpg" alt="Nuestros clientes opinan. Cim III. Tura Sanz Sanglas, 2012 | #Emocionart" title="Nuestros clientes opinan. Cim III. Tura Sanz Sanglas, 2012 | #Emocionart"></core-image>	
+		</div>
+	</div>
 	<figcaption>
 		<p><small>Nuestros clientes opinan. Cim III. Tura Sanz Sanglas, 2012 | #Emocionart</small></p>
 	</figcaption>

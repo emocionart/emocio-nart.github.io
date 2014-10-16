@@ -1,10 +1,11 @@
 {
-  "name": "emocio-nart.github.io",
+  "name": "emocionart.github.io",
   "version": "0.0.0",
+  "homepage": "http://www.emocio-nart-com/",
   "authors": [
-    "Ramon <ramongil@ramongil.cat>"
+    "freecates <ramongil@ramongil.cat>"
   ],
-  "description": "Una web app sobre #emocionart una acció d'artinpocket per promocionar i impulsar la compra d'art. Creada per oxygen.cat per a Artinpocket",
+  "description": "Una web app sobre #emocionart una acció d'artinpocket per promocionar i impulsar la compra d'art. Creada per oxygen.cat per a Artinpocket.",
   "main": "index.html",
   "keywords": [
     "art",
@@ -15,7 +16,6 @@
     "acció"
   ],
   "license": "MIT",
-  "homepage": "http://www.emocio-nart.com/",
   "ignore": [
     "**/.*",
     "node_modules",

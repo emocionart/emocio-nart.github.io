@@ -12,7 +12,11 @@ published: true
 {% assign work = work_data %}
 {% for work in work limit:1 %}
 <figure class="text-center">
-	<img src="{{ work.featured_src }}">
+	<div class="padding-artwork-container">
+		<div class="embed-container embed-container_4-3">
+			<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
+		</div>
+	</div>
 	<figcaption>
 		<p><small><strong>{{ work.title }}</strong> | {% if work.downloadable == true %} digital art{% else if %} dimensiones: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}{% endif %}</small></p>
 		<p><a href="{{ work.permalink }}" class="btn btn-primary btn-lg">¡{{ work.price_html }}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
@@ -34,7 +38,11 @@ Esta semana y de forma exclusiva os presentamos a  **Alona Vinç**, mujer que pr
 {% assign work = work_data %}
 {% for work in work offset:1 %}
 <figure class="text-center">
-	<img src="{{ work.featured_src }}">
+	<div class="padding-artwork-container">
+		<div class="embed-container embed-container_4-3">
+			<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
+		</div>
+	</div>
 	<figcaption>
 		<p><small><strong>{{ work.title }}</strong> | {% if work.downloadable == true %} digital art{% else if %} dimensiones: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}{% endif %}</small></p>
 		<p><a href="{{ work.permalink }}" class="btn btn-primary btn-lg">¡{{ work.price_html }}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
