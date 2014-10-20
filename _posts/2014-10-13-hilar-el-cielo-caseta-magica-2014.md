@@ -3,6 +3,7 @@ layout: post
 title: "Hilar el cielo. Caseta Mágica, 2014"
 share: true
 class: artwork
+class2: oferta
 categories:
   - artwork
   - home

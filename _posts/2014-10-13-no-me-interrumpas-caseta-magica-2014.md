@@ -3,6 +3,7 @@ layout: post
 title: "No me interrumpas. Caseta Mágica, 2014"
 share: true
 class: artwork
+class2: oferta
 categories:
   - artwork
   - home
