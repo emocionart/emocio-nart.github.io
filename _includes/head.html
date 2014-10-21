@@ -17,6 +17,11 @@
       {{ page.title }} &ndash; {% if page.category == 'patrocinadors' %}patrocinadors{% endif %}{% if page.category == 'place' %}place{% endif %} &middot; {{ site.title }}
     {% endif %}
   </title>
+  {% if page.og %}
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="{{ page.og-type }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% endif %}
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
