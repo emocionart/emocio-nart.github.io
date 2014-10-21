@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Pedres. Ernest Cortada, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

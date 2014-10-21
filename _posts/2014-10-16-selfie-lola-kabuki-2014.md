@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Selfie. Lola Kabuki, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

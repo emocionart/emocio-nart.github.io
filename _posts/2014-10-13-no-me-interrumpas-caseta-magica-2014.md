@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "No me interrumpas. Caseta Mágica, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 class2: oferta

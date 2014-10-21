@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Des de els cims I. Sebi Subirós, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

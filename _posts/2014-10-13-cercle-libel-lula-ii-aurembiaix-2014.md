@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Cercle Libèl·lula II. Aurembiaix, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

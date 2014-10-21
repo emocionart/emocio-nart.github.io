@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Recomanacions per a fons d'escriptori. Adrià Ciurana, 2010"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

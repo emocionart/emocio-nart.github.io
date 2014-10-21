@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Camí de casa. Gerard Martínez Costa, 2013"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

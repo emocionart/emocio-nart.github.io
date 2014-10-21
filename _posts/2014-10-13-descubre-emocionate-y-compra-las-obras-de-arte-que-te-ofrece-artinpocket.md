@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "Descubre, emociónate y compra las obras de arte que te ofrece Artinpocket"
+og: true
+og-type: article
 share: true
 class2: oferta
 categories:
   - oferta
 published: true
+work: 2462
 ---
 
 {% assign work_data = site.data.alones %}

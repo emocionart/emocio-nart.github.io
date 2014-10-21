@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "El arte no es caro y menos en Artinpocket. Emocionart y compra arte"
+og: true
+og-type: article
 share: true
 class2: oferta
 categories:

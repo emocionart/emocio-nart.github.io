@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "La Madurez de la Joven de la Perla. Txus Leal Tejada, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

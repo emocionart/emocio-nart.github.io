@@ -8,12 +8,12 @@ class2: oferta
 categories:
   - oferta
 published: true
+work: 2606
 ---
 
 {% assign work_data = site.data.casetes %}
 {% assign work = work_data %}
 {% for work in work limit:1 %}
-<meta property="og:image" content="{{ work.featured_src }}" />
 <figure class="text-center">
 	<div class="padding-artwork-container">
 		<div class="embed-container embed-container_4-3">

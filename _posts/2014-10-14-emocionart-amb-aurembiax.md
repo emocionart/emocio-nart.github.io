@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "EmocionArt amb Aurembiax"
+og: true
+og-type: article
 share: true
 class2: oferta
 categories:

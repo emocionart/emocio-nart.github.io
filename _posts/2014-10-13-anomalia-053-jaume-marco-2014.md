@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Anomalia 053. Jaume Marco, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

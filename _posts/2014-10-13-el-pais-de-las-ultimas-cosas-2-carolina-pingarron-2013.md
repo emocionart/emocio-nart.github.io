@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "El país de las últimas cosas_2. Carolina Pingarrón, 2013"
+og: true
+og-type: product
 share: true
 class: artwork
 categories:

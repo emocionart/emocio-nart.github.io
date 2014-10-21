@@ -21,6 +21,11 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="{{ page.og-type }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% assign work_data-digital = site.data.works-emocionart-digital | where:"id", page.work %}
+  {% assign work-digital = work_data-digital | first %}
+  {% assign work_data-analogic = site.data.works-emocionart-analogic | where:"id", page.work %}
+  {% assign work-analogic = work_data-analogic | first %}
+  <meta property="og:image" content="{{ work-digital.featured_src }}{{ work-analogic.featured_src }}" />
   {% endif %}
 
   <!-- Icons -->

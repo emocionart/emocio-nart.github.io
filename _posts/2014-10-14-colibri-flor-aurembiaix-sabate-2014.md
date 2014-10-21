@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Colibrí, flor. Aurembiaix Sabaté, 2014"
+og: true
+og-type: product
 share: true
 class: artwork
 class2: oferta
