@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ofertas
+title: Promociones | Ofertas
 category: mur-diari
 ---
 

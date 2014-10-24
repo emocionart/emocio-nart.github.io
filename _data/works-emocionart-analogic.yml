@@ -1345,3 +1345,1004 @@
     total_sales: 0
     variations: []
     parent: []
+  - 
+    title: "TATTOO. Marta Casals Juanola, 2014"
+    id: 3342
+    created_at: "2014-07-14T09:10:36Z"
+    updated_at: "2014-10-14T09:56:41Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/tattoo-marta-casals-juanola-2014/"
+    sku: "W799"
+    price: "72.00"
+    regular_price: "80.00"
+    sale_price: "72.00"
+    price_html: "<del><span class=\"amount\">80,00&euro;</span></del> <ins><span class=\"amount\">72,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "30"
+      width: ""
+      height: "20"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2402
+      - 2800
+      - 2807
+      - 2262
+      - 2767
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3343
+        created_at: "2014-10-14T09:13:34Z"
+        updated_at: "2014-10-14T09:13:57Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/tattooflowers.jpg"
+        title: "Marta-Casals-Juanola-Tatto-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/tattooflowers.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Salvatges III. Marta Casals Juanola, 2014"
+    id: 3338
+    created_at: "2014-06-14T09:01:43Z"
+    updated_at: "2014-10-14T09:57:06Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/salvatges-iii-marta-casals-juanola-2014/"
+    sku: "W797"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela, tinta china y <em>colage</em>.</p>\n<p>&nbsp;</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2498
+      - 2406
+      - 2512
+      - 2941
+      - 2642
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3339
+        created_at: "2014-10-14T09:03:39Z"
+        updated_at: "2014-10-14T09:03:52Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges2.jpg"
+        title: "Marta-Casals Juanola-SalavtagesIII-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges2.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Rostro con flores. Marta Casals Juanola, 2014  (Copy)"
+    id: 3346
+    created_at: "2014-05-14T09:17:12Z"
+    updated_at: "2014-10-14T09:37:28Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/rostro-con-flores-marta-casals-juanola-2014-copy/"
+    sku: "W801"
+    price: "72.00"
+    regular_price: "80.00"
+    sale_price: "72.00"
+    price_html: "<del><span class=\"amount\">80,00&euro;</span></del> <ins><span class=\"amount\">72,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "30"
+      width: ""
+      height: "20"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2899
+      - 2276
+      - 2570
+      - 2828
+      - 2372
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3347
+        created_at: "2014-10-14T09:19:49Z"
+        updated_at: "2014-10-14T09:20:26Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/flowers.jpg"
+        title: "Marta-Casals Juanola-Rostro-con-flores-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/flowers.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Rostro Reflejado. Marta Casals Juanola, 2014"
+    id: 3344
+    created_at: "2014-05-14T09:14:37Z"
+    updated_at: "2014-10-14T09:56:29Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/rostro-reflejado-marta-casals-juanola-2014/"
+    sku: "W800"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3295
+      - 2304
+      - 2592
+      - 2504
+      - 2290
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3345
+        created_at: "2014-10-14T09:16:10Z"
+        updated_at: "2014-10-14T09:16:25Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/face3.jpg"
+        title: "Marta-Casals Juanola-rostro-reflejado-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/face3.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "salvatges IV. Marta Casals Juanola, 2014"
+    id: 3340
+    created_at: "2014-05-14T09:04:15Z"
+    updated_at: "2014-10-14T09:56:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/salvatges-iv-marta-casals-juanola-2014/"
+    sku: "W798"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2438
+      - 2522
+      - 2454
+      - 2260
+      - 2941
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3341
+        created_at: "2014-10-14T09:05:04Z"
+        updated_at: "2014-10-14T09:05:18Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges3.jpg"
+        title: "Marta-Casals Juanola-SalavtagesIV -Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges3.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Despertar. Marta Casals Juanola, 2014"
+    id: 3334
+    created_at: "2014-05-14T08:56:51Z"
+    updated_at: "2014-10-14T09:57:22Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/despertar-marta-casals-juanola-2014/"
+    sku: "W795"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Aquarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2788
+      - 3338
+      - 2632
+      - 2578
+      - 2562
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3335
+        created_at: "2014-10-14T08:58:01Z"
+        updated_at: "2014-10-14T08:58:18Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/placer.jpg"
+        title: "Marta-Casals Juanola-Despertar-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/placer.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Desde debajo del mar, Marta Casals Juanola, 2014"
+    id: 3326
+    created_at: "2014-05-14T08:39:26Z"
+    updated_at: "2014-10-14T09:58:35Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/desde-debajo-del-mar-marta-casals-juanola-2014-copy/"
+    sku: "W791"
+    price: "72.00"
+    regular_price: "80.00"
+    sale_price: "72.00"
+    price_html: "<del><span class=\"amount\">80,00&euro;</span></del> <ins><span class=\"amount\">72,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "20"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2284
+      - 2934
+      - 2780
+      - 2917
+      - 2294
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3327
+        created_at: "2014-10-14T08:41:16Z"
+        updated_at: "2014-10-14T08:41:24Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/mar1.jpg"
+        title: "Marta-Casals Juanola-Desde-debajo-del-mar -Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/mar1.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Lagrimas, Marta Casals Juanola, 2014"
+    id: 3321
+    created_at: "2014-05-14T08:20:42Z"
+    updated_at: "2014-10-14T09:56:06Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/llagrimes-marta-casals-juanola-2014/"
+    sku: "W789"
+    price: "72.00"
+    regular_price: "80.00"
+    sale_price: "72.00"
+    price_html: "<del><span class=\"amount\">80,00&euro;</span></del> <ins><span class=\"amount\">72,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "20"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2512
+      - 2769
+      - 2861
+      - 2346
+      - 2272
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3322
+        created_at: "2014-10-14T08:28:02Z"
+        updated_at: "2014-10-14T08:28:44Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/lagrimas.jpg"
+        title: "Marta-Casals Juanola-lagrimas-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/lagrimas.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Resurgir. Marta Casals Juanola, 2014"
+    id: 3348
+    created_at: "2014-04-14T09:21:02Z"
+    updated_at: "2014-10-14T09:56:20Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/resurgir-marta-casals-juanola-2014/"
+    sku: "W802"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Acuarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2716
+      - 2316
+      - 2729
+      - 2740
+      - 2809
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3349
+        created_at: "2014-10-14T09:31:45Z"
+        updated_at: "2014-10-14T09:33:05Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/flowers2.jpg"
+        title: "Marta-Casals Juanola-Resurgir-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/flowers2.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Saltages II. Marta Casals Juanola, 2014"
+    id: 3336
+    created_at: "2014-04-14T08:59:06Z"
+    updated_at: "2014-10-14T09:57:14Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/salvtages-ii-marta-casals-juanola-2014-copy/"
+    sku: "W796"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Aquarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2904
+      - 2890
+      - 2936
+      - 2112
+      - 2701
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3337
+        created_at: "2014-10-14T09:00:02Z"
+        updated_at: "2014-10-14T09:00:28Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges1.jpg"
+        title: "Marta-Casals Juanola-SalavtagesII-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges1.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Contra el viento, Marta Casals Juanola, 2014  (Copy)"
+    id: 3332
+    created_at: "2014-04-14T08:48:50Z"
+    updated_at: "2014-10-14T09:57:32Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/contra-el-viento-marta-casals-juanola-2014-copy/"
+    sku: "W794"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Aquarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2608
+      - 3299
+      - 2698
+      - 2951
+      - 2274
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3333
+        created_at: "2014-10-14T08:49:21Z"
+        updated_at: "2014-10-14T08:49:51Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/perfil.jpg"
+        title: "Marta-Casals Juanola-Contra el viento -Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/perfil.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Metamorfosis, Marta Casals Juanola, 2014"
+    id: 3328
+    created_at: "2014-04-14T08:42:40Z"
+    updated_at: "2014-10-14T09:57:48Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/etamorfosis-marta-casals-juanola-2014-copy/"
+    sku: "W792"
+    price: "100.00"
+    regular_price: "110.00"
+    sale_price: "100.00"
+    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "60"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Aquarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2274
+      - 2330
+      - 2820
+      - 2384
+      - 2818
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3329
+        created_at: "2014-10-14T08:44:02Z"
+        updated_at: "2014-10-14T08:44:09Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/metamorfosi2.jpg"
+        title: "Marta-Casals Juanola-metamorfosis -Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/metamorfosi2.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Lágrimas de peces, Marta Casals Juanola, 2014"
+    id: 3323
+    created_at: "2014-04-14T08:31:41Z"
+    updated_at: "2014-10-14T09:43:24Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/lagrimas-de-peces-marta-casals-juanola-2014/"
+    sku: "W790"
+    price: "72.00"
+    regular_price: "80.00"
+    sale_price: "72.00"
+    price_html: "<del><span class=\"amount\">80,00&euro;</span></del> <ins><span class=\"amount\">72,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "20"
+      width: ""
+      height: "30"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Aquarela</p>\n"
+    short_description: ""
+    reviews_allowed: false
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3330
+      - 2758
+      - 2897
+      - 2811
+      - 3024
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Marta Casals Juanola. #EmocionArt"
+    tags: 
+      - "Marta Casals Juanola"
+    images: 
+      - 
+        id: 3324
+        created_at: "2014-10-14T08:32:56Z"
+        updated_at: "2014-10-14T08:33:22Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/lagrimasdepeces.jpg"
+        title: "Marta-Casals Juanola-Lagrimasdepeces-Aquarela"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/lagrimasdepeces.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
