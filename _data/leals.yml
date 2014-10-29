@@ -1,0 +1,227 @@
+---
+  - 
+    title: "La Madurez de la Joven de la Perla. Txus Leal Tejada, 2014"
+    id: 2496
+    created_at: "2014-09-04T10:39:19Z"
+    updated_at: "2014-10-09T07:48:27Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500/"
+    sku: "W600"
+    price: "80.00"
+    regular_price: "100.00"
+    sale_price: "80.00"
+    price_html: "<del><span class=\"amount\">100,00&euro;</span></del> <ins><span class=\"amount\">80,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "50.00"
+      width: ""
+      height: "70.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Fotografía Inspirada en el cuadro de la \"joven de la perla\"</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2436
+      - 2344
+      - 2786
+      - 2492
+      - 2450
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Txus Leal Tejada"
+    images: 
+      - 
+        id: 2497
+        created_at: "2014-08-04T10:39:19Z"
+        updated_at: "2014-08-04T10:39:19Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500.jpg"
+        title: "La Madurez de la Joven de la Perla. Txus Leal Tejada, 2014"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Decadencia. Txus Leal Tejada, 2014"
+    id: 2498
+    created_at: "2014-08-04T10:39:20Z"
+    updated_at: "2014-08-04T11:20:16Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/decadencia-txus-leal-tejada-2014-501/"
+    sku: "W601"
+    price: "100.00"
+    regular_price: "100.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">100,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "50.00"
+      width: ""
+      height: "70.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Fotografia de la decadencia del ser Humano, inspirado en el claroscuro de la epoca pictoria barroca.</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2685
+      - 2364
+      - 3010
+      - 2578
+      - 2344
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "-ANALOGIC"
+    tags: 
+      - "Txus Leal Tejada"
+    images: 
+      - 
+        id: 2499
+        created_at: "2014-08-04T10:39:20Z"
+        updated_at: "2014-08-04T10:39:20Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/decadencia-txus-leal-tejada-2014-501.jpg"
+        title: "Decadencia. Txus Leal Tejada, 2014"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/decadencia-txus-leal-tejada-2014-501.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "La Dama Holandesa. Txus Leal Tejada, 2014"
+    id: 2494
+    created_at: "2014-08-04T10:39:18Z"
+    updated_at: "2014-08-04T11:20:16Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/la-dama-holandesa-txus-leal-tejada-2014-499/"
+    sku: "W599"
+    price: "100.00"
+    regular_price: "100.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">100,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "50.00"
+      width: ""
+      height: "70.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Inspirado en la Epoca de la Pintura Flamenca.</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2296
+      - 2859
+      - 2314
+      - 2266
+      - 2638
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "-ANALOGIC"
+    tags: 
+      - "Txus Leal Tejada"
+    images: 
+      - 
+        id: 2495
+        created_at: "2014-08-04T10:39:18Z"
+        updated_at: "2014-08-04T10:39:18Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/la-dama-holandesa-txus-leal-tejada-2014-499.jpg"
+        title: "La Dama Holandesa. Txus Leal Tejada, 2014"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/la-dama-holandesa-txus-leal-tejada-2014-499.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
