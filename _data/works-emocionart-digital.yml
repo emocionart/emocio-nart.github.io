@@ -3,280 +3,405 @@
     title: "Recomanacions per a fons d'escriptori. Adrià Ciurana, 2010"
     id: 2241
     created_at: "2014-09-10T15:56:21Z"
-    updated_at: "2014-10-09T07:59:29Z"
+    updated_at: "2014-10-31T09:16:40Z"
     type: "simple"
     status: "publish"
-    downloadable: "true"
-    virtual: "true"
+    downloadable: true
+    virtual: true
     permalink: "http://www.artinpocket.cat/product/recomanacions-per-a-fons-descriptori-adria-ciurana-2010/"
     sku: "W110"
-    price: 4
-    regular_price: 5
-    sale_price: 4
+    price: "4.00"
+    regular_price: "5.00"
+    sale_price: "4.00"
     price_html: "<del><span class=\"amount\">5,00&euro;</span></del> <ins><span class=\"amount\">4,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 50
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: "[object Object]"
-    shipping_required: "false"
-    shipping_taxable: "true"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: false
+    shipping_taxable: true
     shipping_class: ""
-    shipping_class_id: ""
+    shipping_class_id: null
     description: "<p>Recomanacions per a fons d'escriptori. Adrià Ciurana, 2010.</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "1968,2057,2001,2229,1927"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-DIGITAL,Digital Art Barcelona"
-    tags: "Adrià Ciurana"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2458
+      - 3350
+      - 2244
+      - 3330
+      - 3026
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-DIGITAL"
+      - "Digital Art Barcelona"
+    tags: 
+      - "Adrià Ciurana"
+    images: 
+      - 
+        id: 2243
+        created_at: "2014-07-22T15:56:08Z"
+        updated_at: "2014-07-22T15:56:08Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/1-recomanacions-per-a-fons-d-escriptori-adria-ciurana-2010-watermark.jpg"
+        title: "Recomanacions per a fons d&#8217;escriptori. Adrià Ciurana, 2010"
+        alt: "Recomanacions per a fons d'escriptori. Adrià Ciurana, 2010"
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/1-recomanacions-per-a-fons-d-escriptori-adria-ciurana-2010-watermark.jpg"
-    attributes: ""
-    downloads: "[object Object]"
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: 
+      - 
+        id: "fec491d5e017f0bcd1527f2687cc1656"
+        name: "Recomanacions per a fons d'escriptori. Adrià Ciurana, 2010"
+        file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/1-recomanacions-per-a-fons-d-escriptori-adria-ciurana-2010.jpg"
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "Silueta urbana III. Gerard Martínez Costa, 2014"
     id: 2137
     created_at: "2014-09-10T15:30:11Z"
-    updated_at: "2014-10-09T07:55:28Z"
+    updated_at: "2014-10-31T08:48:11Z"
     type: "simple"
     status: "publish"
-    downloadable: "true"
-    virtual: "true"
+    downloadable: true
+    virtual: true
     permalink: "http://www.artinpocket.cat/product/silueta-urbana-iii-gerard-martinez-costa-2014/"
     sku: "W085"
-    price: 20
-    regular_price: 25
-    sale_price: 20
+    price: "20.00"
+    regular_price: "25.00"
+    sale_price: "20.00"
     price_html: "<del><span class=\"amount\">25,00&euro;</span></del> <ins><span class=\"amount\">20,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 10
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: "[object Object]"
-    shipping_required: "false"
-    shipping_taxable: "true"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: false
+    shipping_taxable: true
     shipping_class: ""
-    shipping_class_id: ""
-    description: "<p>Silueta urbana III. Gerard Martínez Costa, 2014. Fotografia digital.</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "1891,2045,2189,2588,1850"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-DIGITAL,Digital Art Barcelona"
-    tags: "Gerard Martínez Costa"
-    images: "[object Object]"
+    shipping_class_id: null
+    description: "<p><em><strong>Silueta urbana III.</strong> </em><strong>Obra d'art digital</strong>. L'artista es mostra captivat per la seva ciutat, i es deambulant pels seus carrer on hi captura la seva essència i la gent que hi transita. Gerard Martínez Costa, utilitza els colors vius i saturats que fan que les seves peces siguin molt <em>contemporànies; </em>alhora que  són un reflex de la seva visió personal de la realitat i l'admiració que sent per les coses i paisatges quotidians i urbans.</p>\n"
+    short_description: "<p><strong>Silueta urbana III. Gerard Martínez Costa captura l&#8217;essència de la ciutat, en aquest cas Barcelona.</strong></p>\n"
+    reviews_allowed: true
+    average_rating: "5.00"
+    rating_count: 1
+    related_ids: 
+      - 2051
+      - 2241
+      - 2152
+      - 2606
+      - 1872
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-DIGITAL"
+      - "Digital Art Barcelona"
+    tags: 
+      - "Gerard Martínez Costa"
+    images: 
+      - 
+        id: 2139
+        created_at: "2014-07-17T15:29:56Z"
+        updated_at: "2014-07-17T15:29:56Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/3-silueta-urbana-iii-gerard-martinez-costa-2014-watermark.jpg"
+        title: "Silueta urbana III. Gerard Martínez Costa, 2014"
+        alt: "Silueta urbana III. Gerard Martínez Costa, 2014"
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/3-silueta-urbana-iii-gerard-martinez-costa-2014-watermark.jpg"
-    attributes: ""
-    downloads: "[object Object]"
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: 
+      - 
+        id: "a6a96ae3a0d8a1735f7507e2e7aa108b"
+        name: "Silueta urbana III. Gerard Martínez Costa, 2014"
+        file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/3-silueta-urbana-iii-gerard-martinez-costa-2014.jpg"
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "Cercle Libèl·lula II. Aurembiaix, 2014"
     id: 2112
     created_at: "2014-09-10T11:05:32Z"
-    updated_at: "2014-10-10T08:51:47Z"
+    updated_at: "2014-10-29T15:26:44Z"
     type: "simple"
     status: "publish"
-    downloadable: "true"
-    virtual: "true"
+    downloadable: true
+    virtual: true
     permalink: "http://www.artinpocket.cat/product/cercle-libel%c2%b7lula-ii-aurembiaix-2014/"
     sku: "W077"
-    price: 20
-    regular_price: 25
-    sale_price: 20
+    price: "20.00"
+    regular_price: "25.00"
+    sale_price: "20.00"
     price_html: "<del><span class=\"amount\">25,00&euro;</span></del> <ins><span class=\"amount\">20,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 10
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: "[object Object]"
-    shipping_required: "false"
-    shipping_taxable: "true"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: false
+    shipping_taxable: true
     shipping_class: ""
-    shipping_class_id: ""
-    description: "<p>Cercle Libèl·lula II. Aurembiaix, 2014</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2054,2158,2464,2169,2253"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-DIGITAL,Digital Art Barcelona"
-    tags: "Aurembiaix Sabaté"
-    images: "[object Object]"
+    shipping_class_id: null
+    description: "<p><em><strong>Cercle Libèl·lula II. </strong></em><strong>Obra d'art digital.  </strong>A Aurembiaix l’art li permet expressar tot el procés intern que es desenvolupa de les seves experiències viscudes, una d’aquestes experiències és el fet de la seva maternitat, on hi ha hagut una transformació de la percepció de la vida,  del sentit filosòfic d’existir<strong>. </strong></p>\n"
+    short_description: "<p><em><strong>Cercle Libèl·lula II, </strong></em><strong>en aquesta obra digital Aurembiaix ens mostra la lluna, el cercle, com a poder femení.</strong></p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 1921
+      - 2022
+      - 2109
+      - 3321
+      - 2143
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-DIGITAL"
+      - "Digital Art Barcelona"
+    tags: 
+      - "Aurembiaix Sabaté"
+    images: 
+      - 
+        id: 2114
+        created_at: "2014-07-17T11:05:21Z"
+        updated_at: "2014-07-17T11:05:21Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/3-cercle-libellula-ii-aurembiaix-2014-watermark.jpg"
+        title: "Cercle Libèl·lula II. Aurembiaix, 2014"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/3-cercle-libellula-ii-aurembiaix-2014-watermark.jpg"
-    attributes: ""
-    downloads: "[object Object]"
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: 
+      - 
+        id: "9f1554c3a0c6a5fb5dbd268c72e4824a"
+        name: "Cercle Libèl·lula II. Aurembiaix, 2014"
+        file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/3-cercle-libellula-ii-aurembiaix-2014.jpg"
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "Pedres. Ernest Cortada, 2014"
     id: 1959
     created_at: "2014-09-09T09:08:25Z"
-    updated_at: "2014-10-09T07:57:30Z"
+    updated_at: "2014-10-31T09:15:57Z"
     type: "simple"
     status: "publish"
-    downloadable: "true"
-    virtual: "true"
+    downloadable: true
+    virtual: true
     permalink: "http://www.artinpocket.cat/product/pedres-ernest-cortada-2014/"
     sku: "W038"
-    price: 8
-    regular_price: 10
-    sale_price: 8
+    price: "8.00"
+    regular_price: "10.00"
+    sale_price: "8.00"
     price_html: "<del><span class=\"amount\">10,00&euro;</span></del> <ins><span class=\"amount\">8,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 50
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "catalog"
-    on_sale: "true"
-    weight: ""
-    dimensions: "[object Object]"
-    shipping_required: "false"
-    shipping_taxable: "true"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: false
+    shipping_taxable: true
     shipping_class: ""
-    shipping_class_id: ""
+    shipping_class_id: null
     description: ""
     short_description: "<p>Pedres, Ernest Cortada, 2014.</p>\n"
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2861,2496,2051,2244,2073"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-DIGITAL,Digital Art Barcelona"
-    tags: "Ernest Cortada"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 1972
+      - 1965
+      - 3340
+      - 1927
+      - 2008
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-DIGITAL"
+      - "Digital Art Barcelona"
+    tags: 
+      - "Ernest Cortada"
+    images: 
+      - 
+        id: 1961
+        created_at: "2014-05-26T09:08:07Z"
+        updated_at: "2014-05-26T09:08:07Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/pedres-watermark.jpg"
+        title: "Pedres, Ernest Cortada, 2014"
+        alt: "Pedres, Ernest Cortada, 2014"
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/pedres-watermark.jpg"
-    attributes: ""
-    downloads: "[object Object]"
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: 
+      - 
+        id: "95436af0f8feec8c4905973cf909c1be"
+        name: "Pedres, Ernest Cortada, 2014"
+        file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/05/pedres.jpg"
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "Anomalia 053. Jaume Marco, 2014"
     id: 2063
     created_at: "2014-07-16T09:24:10Z"
-    updated_at: "2014-10-09T07:58:16Z"
+    updated_at: "2014-10-31T09:14:54Z"
     type: "simple"
     status: "publish"
-    downloadable: "true"
-    virtual: "true"
+    downloadable: true
+    virtual: true
     permalink: "http://www.artinpocket.cat/product/anomalia-053-jaume-marco-2014/"
     sku: "W064"
-    price: 8
-    regular_price: 10
-    sale_price: 8
+    price: "8.00"
+    regular_price: "10.00"
+    sale_price: "8.00"
     price_html: "<del><span class=\"amount\">10,00&euro;</span></del> <ins><span class=\"amount\">8,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 50
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: "[object Object]"
-    shipping_required: "false"
-    shipping_taxable: "true"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: false
+    shipping_taxable: true
     shipping_class: ""
-    shipping_class_id: ""
+    shipping_class_id: null
     description: "<p>Anomalia 053. Jaume Marco, 2014. Sèrie anomalia.</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "1306,2861,1978,1924,2464"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-DIGITAL,Digital Art Barcelona"
-    tags: "Jaume Marco"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 1921
+      - 2189
+      - 2250
+      - 2109
+      - 3348
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-DIGITAL"
+      - "Digital Art Barcelona"
+    tags: 
+      - "Jaume Marco"
+    images: 
+      - 
+        id: 2065
+        created_at: "2014-07-16T09:23:38Z"
+        updated_at: "2014-07-16T09:23:38Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/6-anomalia-053-jaume-marco-juliol-2014-watermark.jpg"
+        title: "Anomalia 053. Jaume Marco, 2014"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/07/6-anomalia-053-jaume-marco-juliol-2014-watermark.jpg"
-    attributes: ""
-    downloads: "[object Object]"
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: 
+      - 
+        id: "88c97e5f7e554514042bd4513501cd13"
+        name: "Anomalia 053. Jaume Marco, 2014"
+        file: "http://www.inpocketart.com/wp-content/uploads/woocommerce_uploads/2014/07/6-anomalia-053-jaume-marco-juliol-2014.jpg"
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
 

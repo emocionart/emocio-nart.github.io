@@ -3,968 +3,1301 @@
     title: "Veure les estrelles. Jordi Mitjà, 2014"
     id: 3310
     created_at: "2014-10-08T08:38:01Z"
-    updated_at: "2014-10-08T08:52:29Z"
+    updated_at: "2014-10-31T09:12:26Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/veure-les-estrelles-jordi-mitja-2014/"
     sku: "W788"
-    price: 170
-    regular_price: 195
-    sale_price: 170
+    price: "170.00"
+    regular_price: "195.00"
+    sale_price: "170.00"
     price_html: "<del><span class=\"amount\">195,00&euro;</span></del> <ins><span class=\"amount\">170,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 50
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "false"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    managing_stock: true
+    stock_quantity: 9
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: false
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
+    weight: null
     dimensions: 
       length: "28"
       width: ""
       height: "38"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Fotogravat sobre paper Arches manipulat a mà. Edició de 50 exemplars numerats i signats. 28 x 38 cm. </p>\n<p>Edició realitzada per Jordi Mitjà en motiu de la campanya de <a href=\"http://www.verkami.com/projects/8133-tipografia-artinpocket-regular\" title=\"Verkami:  Tipografia Artinpocket Regular\" target=\"_blank\">crowdfunding</a> per a desenvolupar la tipografia constructivista dissenyada per a títols i destacats <a href=\"http://www.artinpocketregular.com/download/\" title=\"La tipografia &ndash;  &middot; artinpocket/regular\" target=\"_blank\">Artinpocket</a>. Aquesta obra està vinculada a un codi QR que inclou el poema: <a href=\"http://www.artinpocketregular.com/general/home/2014/07/19/veure-les-estrelles/\" title=\"Veure les estrelles &ndash;  &middot; artinpocket/regular\" target=\"_blank\">veure les estrelles</a>.  Edita: <a href=\"/\" title=\"Artinpocket | The community that sale accessible art with a single click\">Artinpocket</a>.</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2342,2826,2544,2729,2838"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Artinpocket Digital and Analogic Art"
-    images: "[object Object]"
+    description: "<p><strong>Fotogravat sobre paper Arches manipulat a mà</strong>. Edició de 50 exemplars numerats i signats. 28 x 38 cm. Edició realitzada per Jordi Mitjà en motiu de la campanya de <a title=\"Verkami:  Tipografia Artinpocket Regular\" href=\"http://www.verkami.com/projects/8133-tipografia-artinpocket-regular\" target=\"_blank\">crowdfunding</a> per a desenvolupar la tipografia constructivista dissenyada per a títols i destacats <a title=\"La tipografia –  · artinpocket/regular\" href=\"http://www.artinpocketregular.com/download/\" target=\"_blank\">Artinpocket</a>. Aquesta obra està vinculada a un codi QR que inclou el poema: <a title=\"Veure les estrelles –  · artinpocket/regular\" href=\"http://www.artinpocketregular.com/general/home/2014/07/19/veure-les-estrelles/\" target=\"_blank\">veure les estrelles</a>. Edita: <a title=\"Artinpocket | The community that sale accessible art with a single click\" href=\"/\">Artinpocket</a>.</p>\n"
+    short_description: "<p><strong> Jordi Mitjà amb aquest fotogravat, ens explica d&#8217;una manera poètica el significat de veure les estrelles.</strong></p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2384
+      - 2985
+      - 2941
+      - 2554
+      - 2919
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Artinpocket Digital and Analogic Art"
+    images: 
+      - 
+        id: 3311
+        created_at: "2014-10-08T08:37:07Z"
+        updated_at: "2014-10-08T08:37:43Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/veure-les-estrelles-jordi-mitja-2014-artinpocket.jpg"
+        title: "Veure les estrelles. Jordi Mitjà, 2014"
+        alt: "Veure les estrelles. Jordi Mitjà, 2014"
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/veure-les-estrelles-jordi-mitja-2014-artinpocket.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "El país de las últimas cosas_2. Carolina Pingarrón, 2013"
     id: 3010
     created_at: "2014-09-04T10:44:18Z"
-    updated_at: "2014-10-09T07:46:00Z"
+    updated_at: "2014-10-31T08:59:06Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/el-pais-de-las-ultimas-cosas_2-carolina-pingarron-2013-595/"
     sku: "W695"
-    price: 192
-    regular_price: 240
-    sale_price: 192
+    price: "192.00"
+    regular_price: "240.00"
+    sale_price: "192.00"
     price_html: "<del><span class=\"amount\">240,00&euro;</span></del> <ins><span class=\"amount\">192,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
+    weight: null
     dimensions: 
       length: "50.00"
       width: ""
       height: "30.00"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Fotografía digital impresa sobre aluminio</p>\n"
+    description: "<p><strong><em>El país de las útlimas cosas_2</em>. Fotografía digital impresa sobre aluminio</strong> (50 x 30 cm).</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2761,2660,2664,2386,1959"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC,Carolina Pingarrón. El país de las últimas cosas"
-    tags: "Carolina Pingarrón"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2743
+      - 2544
+      - 3028
+      - 2358
+      - 2994
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Carolina Pingarrón. El país de las últimas cosas"
+    tags: 
+      - "Carolina Pingarrón"
+    images: 
+      - 
+        id: 3011
+        created_at: "2014-08-04T10:44:18Z"
+        updated_at: "2014-08-04T10:44:18Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/el-pais-de-las-ultimas-cosas_2-carolina-pingarron-2013-595.jpg"
+        title: "El país de las últimas cosas_2. Carolina Pingarrón, 2013"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/el-pais-de-las-ultimas-cosas_2-carolina-pingarron-2013-595.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "Des de els cims I. Sebi Subirós, 2014"
     id: 2804
     created_at: "2014-09-04T10:42:21Z"
-    updated_at: "2014-10-09T07:44:37Z"
+    updated_at: "2014-10-31T08:58:12Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/des-de-els-cims-i-sebi-subiros-2014-441/"
     sku: "W541"
-    price: 104
-    regular_price: 130
-    sale_price: 104
+    price: "104.00"
+    regular_price: "130.00"
+    sale_price: "104.00"
     price_html: "<del><span class=\"amount\">130,00&euro;</span></del> <ins><span class=\"amount\">104,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
+    weight: null
     dimensions: 
       length: "20.00"
       width: ""
       height: "30.00"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p>Obra de la serie \"Des de els cims\"</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2772,2824,2594,2816,3026"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC,Sebi Subirós. Des de els cims"
-    tags: "Sebi Subirós"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2546
+      - 3326
+      - 2793
+      - 2651
+      - 2328
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Sebi Subirós. Des de els cims"
+    tags: 
+      - "Sebi Subirós"
+    images: 
+      - 
+        id: 2805
+        created_at: "2014-08-04T10:42:21Z"
+        updated_at: "2014-08-04T10:42:21Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/des-de-els-cims-i-sebi-subiros-2014-441.jpg"
+        title: "Des de els cims I. Sebi Subirós, 2014"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/des-de-els-cims-i-sebi-subiros-2014-441.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "La Madurez de la Joven de la Perla. Txus Leal Tejada, 2014"
     id: 2496
     created_at: "2014-09-04T10:39:19Z"
-    updated_at: "2014-10-09T07:48:27Z"
+    updated_at: "2014-10-31T09:07:33Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500/"
     sku: "W600"
-    price: 80
-    regular_price: 100
-    sale_price: 80
+    price: "80.00"
+    regular_price: "100.00"
+    sale_price: "80.00"
     price_html: "<del><span class=\"amount\">100,00&euro;</span></del> <ins><span class=\"amount\">80,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
+    weight: null
     dimensions: 
       length: "50.00"
       width: ""
       height: "70.00"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Fotografía Inspirada en el cuadro de la \"joven de la perla\"</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2464,2676,2793,2912,2488"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Txus Leal Tejada"
-    images: "[object Object]"
+    description: "<p><strong><em>La madurez de la joven de la perla</em></strong>. <strong>Fotografia de estudio con tratamiento digital, papel fotogràfico (50 x 70cm)</strong>. Esta fotografía forma parte de la serie <em>Benditas locuras</em> y está inspirada en el retrato de <em>La Joven de la Perla</em> (1665) de Johannes Vermeer, uno de sus referentes pictóricos. Para Txus Leal, el paso del tiempo, las sensaciones, las influencias pictóricas impregnan cada fotografía que realiza y que –gracias a las técnicas digitales- traspasan la línea de la realidad y nos transportan a un mundo onírico, subjetivo e íntimo que conecta con la fibra emocional. Captar “la mirada del otro”  es la finalidad de este creador.  Txus Leal afirma: “<em>muchas de las fotografías se han realizado en momentos de rabia, miedo o inmensa alegría</em>”, así pues las emociones son el motor de su creatividad.</p>\n"
+    short_description: "<p><strong>En esta obra el artista no muestra el paso del tiempo, las sensaciones, las influencias pictóricas que impregnan cada fotografía que realiza y que traspasan la línea de la realidad y nos transportan a un mundo onírico, subjetivo e íntimo que conecta con la fibra emocional.</strong></p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3291
+      - 3062
+      - 2956
+      - 2268
+      - 2698
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Txus Leal Tejada"
+    images: 
+      - 
+        id: 2497
+        created_at: "2014-08-04T10:39:19Z"
+        updated_at: "2014-08-04T10:39:19Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500.jpg"
+        title: "La Madurez de la Joven de la Perla. Txus Leal Tejada, 2014"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/05/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Des de els cims IV. Sebi Subirós, 2014"
+    id: 2486
+    created_at: "2014-09-04T10:39:12Z"
+    updated_at: "2014-09-12T12:42:33Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/des-de-els-cims-iv-sebi-subiros-2014-444/"
+    sku: "W544"
+    price: "130.00"
+    regular_price: "130.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">130,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "20.00"
+      width: ""
+      height: "30.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie \"Des de els cims\"</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2332
+      - 2570
+      - 2580
+      - 2410
+      - 2274
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "-ANALOGIC"
+    tags: 
+      - "Sebi Subirós"
+    images: 
+      - 
+        id: 2487
+        created_at: "2014-08-04T10:39:12Z"
+        updated_at: "2014-08-04T10:39:12Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/des-de-els-cims-iv-sebi-subiros-2014-444.jpg"
+        title: "Des de els cims IV. Sebi Subirós, 2014"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/des-de-els-cims-iv-sebi-subiros-2014-444.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "S/O. Alona Vinç, 2013"
     id: 2462
     created_at: "2014-09-04T10:38:58Z"
-    updated_at: "2014-10-08T08:56:23Z"
+    updated_at: "2014-10-31T09:10:46Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/so-alona-vinc-2013-427/"
     sku: "W527"
-    price: 51
-    regular_price: 60
-    sale_price: 51
+    price: "51.00"
+    regular_price: "60.00"
+    sale_price: "51.00"
     price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "25.00"
-      width: ""
-      height: "25.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Sonidos que recuerdan una época, no muy lejana aunque se sienta presente</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2362,2638,2786,2492,1959"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Alona Vinç"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/so-alona-vinc-2013-427.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "Camí de casa. Gerard Martínez Costa, 2013"
-    id: 2444
-    created_at: "2014-09-04T10:38:47Z"
-    updated_at: "2014-10-09T07:41:12Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/cami-de-casa-gerard-martinez-costa-2013-397/"
-    sku: "W497"
-    price: 112
-    regular_price: 140
-    sale_price: 112
-    price_html: "<del><span class=\"amount\">140,00&euro;</span></del> <ins><span class=\"amount\">112,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "20.00"
-      width: ""
-      height: "20.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Fotografia, pintura, sprays i vernissos</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2460,2989,2795,2496,2320"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Gerard Martínez Costa"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/cami-de-casa-gerard-martinez-costa-2013-397.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "nº10. Víctor Velasco, 2013"
-    id: 2861
-    created_at: "2014-08-04T10:42:55Z"
-    updated_at: "2014-10-09T07:50:57Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/no10-victor-velasco-2013-469/"
-    sku: "W569"
-    price: 24
-    regular_price: 30
-    sale_price: 24
-    price_html: "<del><span class=\"amount\">30,00&euro;</span></del> <ins><span class=\"amount\">24,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "10.00"
-      width: ""
-      height: "10.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Perteneciente a la Serie X. Una serie de fotografías en detalle, que pretenden indagar en los más intimo de cada persona, su tamaño reducido hace que el espectador tenga que acercarse a verlo, creando así un efecto voyeur.<br />\nhttp://www.dvplasticartists.com/#!serie-x/c1rq</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2334,2518,2276,2410,2651"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC,Víctor Velasco. Serie X"
-    tags: "Víctor Velasco"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/no10-victor-velasco-2013-469.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "No me interrumpas. Caseta Mágica, 2014"
-    id: 2606
-    created_at: "2014-08-04T10:40:26Z"
-    updated_at: "2014-10-09T07:49:39Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/no-me-interrumpas-caseta-magica-2014-617/"
-    sku: "W717"
-    price: 56
-    regular_price: 70
-    sale_price: 56
-    price_html: "<del><span class=\"amount\">70,00&euro;</span></del> <ins><span class=\"amount\">56,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "16.00"
-      width: ""
-      height: "16.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Collage con objeto</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2462,2542,2504,3295,2765"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Caseta Mágica"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/06/no-me-interrumpas-caseta-magica-2014-617.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "Hilar el cielo. Caseta Mágica, 2014"
-    id: 2588
-    created_at: "2014-08-04T10:40:15Z"
-    updated_at: "2014-10-09T07:47:24Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/hilar-el-cielo-caseta-magica-2014-605/"
-    sku: "W705"
-    price: 80
-    regular_price: 100
-    sale_price: 80
-    price_html: "<del><span class=\"amount\">100,00&euro;</span></del> <ins><span class=\"amount\">80,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "29.70"
-      width: ""
-      height: "42.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Collage papel</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2414,2452,2326,2820,2721"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Caseta Mágica"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/06/hilar-el-cielo-caseta-magica-2014-605.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "SILENCIO, SE RUEDA!. ME BES, 2014"
-    id: 2472
-    created_at: "2014-08-04T10:39:04Z"
-    updated_at: "2014-10-09T07:52:12Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/silencio-se-rueda-me-bes-2014-432/"
-    sku: "W532"
-    price: 120
-    regular_price: 150
-    sale_price: 120
-    price_html: "<del><span class=\"amount\">150,00&euro;</span></del> <ins><span class=\"amount\">120,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "40.00"
-      width: ""
-      height: "50.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Retrato de Alfred Hitchcock sobre collage de carteles publicitarios sacados de la pared de una calle cualquiera. Se intenta sacar ese trozo de la calle a la obra, dándole la esencia inicial.</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2842,2752,2462,2318,2814"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "ME BES"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/silencio-se-rueda-me-bes-2014-432.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "L/S. Alona Vinç, 2013"
-    id: 2464
-    created_at: "2014-08-04T10:38:59Z"
-    updated_at: "2014-10-08T08:56:30Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/ls-alona-vinc-2013-428/"
-    sku: "W528"
-    price: 51
-    regular_price: 60
-    sale_price: 51
-    price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "25.00"
-      width: ""
-      height: "25.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Espacios y mar, verano y sal</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2919,2270,2456,2861,2866"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Alona Vinç"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/ls-alona-vinc-2013-428.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "L/E. Alona Vinç, 2013"
-    id: 2460
-    created_at: "2014-08-04T10:38:57Z"
-    updated_at: "2014-10-08T08:56:38Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/le-alona-vinc-2013-426/"
-    sku: "W526"
-    price: 51
-    regular_price: 60
-    sale_price: 51
-    price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
-    dimensions: 
-      length: "24.96"
-      width: ""
-      height: "25.00"
-      unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Observar las lineas del horizonte, una casa, un árbol, ese aroma que vuelve...</p>\n"
-    short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "3299,2320,2518,2566,2644"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Alona Vinç"
-    images: "[object Object]"
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/le-alona-vinc-2013-426.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
-    download_type: ""
-    purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
-  - 
-    title: "P/E. Alona Vinç, 2013"
-    id: 2458
-    created_at: "2014-08-04T10:38:56Z"
-    updated_at: "2014-10-08T08:56:45Z"
-    type: "simple"
-    status: "publish"
-    downloadable: "false"
-    virtual: "false"
-    permalink: "http://www.artinpocket.cat/product/pe-alona-vinc-2013-425/"
-    sku: "W525"
-    price: 51
-    regular_price: 60
-    sale_price: 51
-    price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
-    taxable: "true"
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: "true"
-    stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
-    catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
     weight: null
     dimensions: 
       length: "25.00"
       width: ""
       height: "25.00"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p><strong>S/O.</strong> <strong>Técnica</strong> t<strong>ransferencia </strong>(25 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n"
+    short_description: "<p><strong>S/O. Alona Vinç: &#8220;<em>Sonidos que recuerdan una época, no muy lejana aunque se sienta presente</em>&#8220;.</strong></p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2687
+      - 2602
+      - 2748
+      - 2382
+      - 3340
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Alona Vinç"
+    images: 
+      - 
+        id: 2463
+        created_at: "2014-08-04T10:38:58Z"
+        updated_at: "2014-08-04T10:38:58Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/so-alona-vinc-2013-427.jpg"
+        title: "S/O. Alona Vinç, 2013"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/so-alona-vinc-2013-427.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Camí de casa. Gerard Martínez Costa, 2013"
+    id: 2444
+    created_at: "2014-09-04T10:38:47Z"
+    updated_at: "2014-10-31T08:54:21Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/cami-de-casa-gerard-martinez-costa-2013-397/"
+    sku: "W497"
+    price: "112.00"
+    regular_price: "140.00"
+    sale_price: "112.00"
+    price_html: "<del><span class=\"amount\">140,00&euro;</span></del> <ins><span class=\"amount\">112,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "20.00"
+      width: ""
+      height: "20.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Fotografia, pintura, sprays i vernissos</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "4.00"
+    rating_count: 1
+    related_ids: 
+      - 2490
+      - 2788
+      - 2816
+      - 2434
+      - 2312
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Gerard Martínez Costa"
+    images: 
+      - 
+        id: 2445
+        created_at: "2014-08-04T10:38:47Z"
+        updated_at: "2014-08-04T10:38:47Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/cami-de-casa-gerard-martinez-costa-2013-397.jpg"
+        title: "Camí de casa. Gerard Martínez Costa, 2013"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/02/cami-de-casa-gerard-martinez-costa-2013-397.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "nº10. Víctor Velasco, 2013"
+    id: 2861
+    created_at: "2014-08-04T10:42:55Z"
+    updated_at: "2014-10-31T09:08:17Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/no10-victor-velasco-2013-469/"
+    sku: "W569"
+    price: "24.00"
+    regular_price: "30.00"
+    sale_price: "24.00"
+    price_html: "<del><span class=\"amount\">30,00&euro;</span></del> <ins><span class=\"amount\">24,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "10.00"
+      width: ""
+      height: "10.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Perteneciente a la Serie X. Una serie de fotografías en detalle, que pretenden indagar en los más intimo de cada persona, su tamaño reducido hace que el espectador tenga que acercarse a verlo, creando así un efecto voyeur.<br />\nhttp://www.dvplasticartists.com/#!serie-x/c1rq</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "3.00"
+    rating_count: 1
+    related_ids: 
+      - 2528
+      - 2960
+      - 2890
+      - 2672
+      - 2734
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Víctor Velasco. Serie X"
+    tags: 
+      - "Víctor Velasco"
+    images: 
+      - 
+        id: 2862
+        created_at: "2014-08-04T10:42:55Z"
+        updated_at: "2014-08-04T10:42:55Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/no10-victor-velasco-2013-469.jpg"
+        title: "nº10. Víctor Velasco, 2013"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/no10-victor-velasco-2013-469.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "No me interrumpas. Caseta Mágica, 2014"
+    id: 2606
+    created_at: "2014-08-04T10:40:26Z"
+    updated_at: "2014-10-31T09:08:55Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/no-me-interrumpas-caseta-magica-2014-617/"
+    sku: "W717"
+    price: "56.00"
+    regular_price: "70.00"
+    sale_price: "56.00"
+    price_html: "<del><span class=\"amount\">70,00&euro;</span></del> <ins><span class=\"amount\">56,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "16.00"
+      width: ""
+      height: "16.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p><strong><em>No me interrumpas, </em>collage (papel) con objeto </strong>(16 x 16 cm).  Caseta Mágica, és un  projecte artístic que neix a València i desenvolupa el seu treball dins el món gràfic. El procés creatiu i en conseqüència les seves peces són un reflex de la necessitat de transformar el que ens envolta, de revisió d’allò establert. Aquesta premissa la duen a terme donant marge a l’espontaneïtat, al joc i a la diversió. Caseta Magica entén “<em>el treball com a creació i la vida com a treball creatiu</em>”.</p>\n"
+    short_description: "<p><strong><em>No me interrumpas</em>, és una peça realitzada amb un objecte trobat. La nova utilització ens aporta un canvi de visió que actua com a generador de pensament, d&#8217;actitud i de percepció de la realitat; tot això s&#8217;aconsegueix donant valor a lo inútil. Aquesta obra és pura poesia.</strong></p>\n<p>&nbsp;</p>\n"
+    reviews_allowed: true
+    average_rating: "4.50"
+    rating_count: 2
+    related_ids: 
+      - 2754
+      - 2991
+      - 2962
+      - 2502
+      - 2618
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Caseta Mágica"
+    images: 
+      - 
+        id: 2607
+        created_at: "2014-08-04T10:40:26Z"
+        updated_at: "2014-08-04T10:40:26Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/06/no-me-interrumpas-caseta-magica-2014-617.jpg"
+        title: "No me interrumpas. Caseta Mágica, 2014"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/06/no-me-interrumpas-caseta-magica-2014-617.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Hilar el cielo. Caseta Mágica, 2014"
+    id: 2588
+    created_at: "2014-08-04T10:40:15Z"
+    updated_at: "2014-10-31T09:04:51Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/hilar-el-cielo-caseta-magica-2014-605/"
+    sku: "W705"
+    price: "80.00"
+    regular_price: "100.00"
+    sale_price: "80.00"
+    price_html: "<del><span class=\"amount\">100,00&euro;</span></del> <ins><span class=\"amount\">80,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "29.70"
+      width: ""
+      height: "42.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p><strong><em>Hilar el cielo</em>, collage papel,</strong> ( 29 X 42 cm). Caseta Mágica, es un proyecto artístico que nace en Valencia y desarrolla su trabajo dentro el mundo gráfico. El proceso creativo y en consecuencia sus piezas son un reflejo de la necesidad de transformar lo que nos rodea, de revisión de todo lo establecido. Esta premisa la llevan a término dando margen a la espontaneidad, al juego y a la diversión. Caseta Mágica entiende \"<em>el trabajo como creación y la vida como trabajo creativo\"</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong><em>Hilar el cielo, e</em>s una pieza realizada con un objeto encontrado. La nueva utilización nos aporta un cambio de visión que actúa como generador de pensamiento de actitud y de percepción de la realidad; todo esto se consigue dando valor a lo inútil. Esta obra es pura poesía.</strong></p>\n"
+    reviews_allowed: true
+    average_rating: "4.50"
+    rating_count: 2
+    related_ids: 
+      - 2802
+      - 2450
+      - 2470
+      - 2826
+      - 2498
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Caseta Mágica"
+    images: 
+      - 
+        id: 2589
+        created_at: "2014-08-04T10:40:15Z"
+        updated_at: "2014-08-04T10:40:15Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/06/hilar-el-cielo-caseta-magica-2014-605.jpg"
+        title: "Hilar el cielo. Caseta Mágica, 2014"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/06/hilar-el-cielo-caseta-magica-2014-605.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "SILENCIO, SE RUEDA!. ME BES, 2014"
+    id: 2472
+    created_at: "2014-08-04T10:39:04Z"
+    updated_at: "2014-10-31T09:11:31Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/silencio-se-rueda-me-bes-2014-432/"
+    sku: "W532"
+    price: "120.00"
+    regular_price: "150.00"
+    sale_price: "120.00"
+    price_html: "<del><span class=\"amount\">150,00&euro;</span></del> <ins><span class=\"amount\">120,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "40.00"
+      width: ""
+      height: "50.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Retrato de Alfred Hitchcock sobre collage de carteles publicitarios sacados de la pared de una calle cualquiera. Se intenta sacar ese trozo de la calle a la obra, dándole la esencia inicial.</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "4.00"
+    rating_count: 1
+    related_ids: 
+      - 2354
+      - 2316
+      - 2996
+      - 2793
+      - 2991
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "ME BES"
+    images: 
+      - 
+        id: 2473
+        created_at: "2014-08-04T10:39:04Z"
+        updated_at: "2014-08-04T10:39:04Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/silencio-se-rueda-me-bes-2014-432.jpg"
+        title: "SILENCIO, SE RUEDA!. ME BES, 2014"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/silencio-se-rueda-me-bes-2014-432.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "L/S. Alona Vinç, 2013"
+    id: 2464
+    created_at: "2014-08-04T10:38:59Z"
+    updated_at: "2014-10-31T09:06:53Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/ls-alona-vinc-2013-428/"
+    sku: "W528"
+    price: "51.00"
+    regular_price: "60.00"
+    sale_price: "51.00"
+    price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "25.00"
+      width: ""
+      height: "25.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p><em><strong>L/S</strong> </em><strong>Técnica transferencia</strong> (25 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n"
+    short_description: "<p><strong><em>L/S. Alona Vinç: &#8220;Espacios y mar, verano y sal&#8221;</em></strong></p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3326
+      - 2919
+      - 2428
+      - 2498
+      - 2276
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Alona Vinç"
+    images: 
+      - 
+        id: 2465
+        created_at: "2014-08-04T10:38:59Z"
+        updated_at: "2014-08-04T10:38:59Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/ls-alona-vinc-2013-428.jpg"
+        title: "L/S. Alona Vinç, 2013"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/ls-alona-vinc-2013-428.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "L/E. Alona Vinç, 2013"
+    id: 2460
+    created_at: "2014-08-04T10:38:57Z"
+    updated_at: "2014-10-31T09:06:09Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/le-alona-vinc-2013-426/"
+    sku: "W526"
+    price: "51.00"
+    regular_price: "60.00"
+    sale_price: "51.00"
+    price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "24.96"
+      width: ""
+      height: "25.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Observar las lineas del horizonte, una casa, un árbol, ese aroma que vuelve...</p>\n"
+    short_description: ""
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2683
+      - 2648
+      - 2876
+      - 3328
+      - 2873
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Alona Vinç"
+    images: 
+      - 
+        id: 2461
+        created_at: "2014-08-04T10:38:57Z"
+        updated_at: "2014-08-04T10:38:57Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/le-alona-vinc-2013-426.jpg"
+        title: "L/E. Alona Vinç, 2013"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/le-alona-vinc-2013-426.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "P/E. Alona Vinç, 2013"
+    id: 2458
+    created_at: "2014-08-04T10:38:56Z"
+    updated_at: "2014-10-31T09:09:37Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/product/pe-alona-vinc-2013-425/"
+    sku: "W525"
+    price: "51.00"
+    regular_price: "60.00"
+    sale_price: "51.00"
+    price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "25.00"
+      width: ""
+      height: "25.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p>Absorto en el espacio</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2811,2622,2634,2776,2653"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Alona Vinç"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2302
+      - 2352
+      - 2782
+      - 2578
+      - 2330
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Alona Vinç"
+    images: 
+      - 
+        id: 2459
+        created_at: "2014-08-04T10:38:56Z"
+        updated_at: "2014-08-04T10:38:56Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/pe-alona-vinc-2013-425.jpg"
+        title: "P/E. Alona Vinç, 2013"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/pe-alona-vinc-2013-425.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "D/T. Alona Vinç, 2013"
     id: 2456
     created_at: "2014-08-04T10:38:55Z"
-    updated_at: "2014-10-08T08:56:56Z"
+    updated_at: "2014-10-31T08:57:19Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/dt-alona-vinc-2013-424/"
     sku: "W524"
-    price: 85
-    regular_price: 100
-    sale_price: 85
+    price: "85.00"
+    regular_price: "100.00"
+    sale_price: "85.00"
     price_html: "<del><span class=\"amount\">100,00&euro;</span></del> <ins><span class=\"amount\">85,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
+    weight: null
     dimensions: 
       length: "25.00"
       width: ""
       height: "25.00"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p>Individuos que luchan dentro de sus posibilidades</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2910,2598,2560,2750,2260"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Alona Vinç"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3003
+      - 2758
+      - 2562
+      - 2709
+      - 3330
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Alona Vinç"
+    images: 
+      - 
+        id: 2457
+        created_at: "2014-08-04T10:38:55Z"
+        updated_at: "2014-08-04T10:38:55Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/dt-alona-vinc-2013-424.jpg"
+        title: "D/T. Alona Vinç, 2013"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/dt-alona-vinc-2013-424.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "C/P. Alona Vinç, 2013"
     id: 2454
     created_at: "2014-08-04T10:38:54Z"
-    updated_at: "2014-10-08T08:55:58Z"
+    updated_at: "2014-10-31T08:53:35Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/cp-alona-vinc-2013-423/"
     sku: "W523"
-    price: 51
-    regular_price: 60
-    sale_price: 51
+    price: "51.00"
+    regular_price: "60.00"
+    sale_price: "51.00"
     price_html: "<del><span class=\"amount\">60,00&euro;</span></del> <ins><span class=\"amount\">51,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
+    weight: null
     dimensions: 
       length: "25.00"
       width: ""
       height: "25.00"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p>Simetrías, observar su presa, supervivencia</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "2914,2308,2450,2965,2752"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Alona Vinç"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2824
+      - 2934
+      - 2586
+      - 2476
+      - 2870
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Alona Vinç"
+    images: 
+      - 
+        id: 2455
+        created_at: "2014-08-04T10:38:54Z"
+        updated_at: "2014-08-04T10:38:54Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/cp-alona-vinc-2013-423.jpg"
+        title: "C/P. Alona Vinç, 2013"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/03/cp-alona-vinc-2013-423.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "1.3. Puigbert, 2012"
     id: 2280
     created_at: "2014-08-04T10:37:11Z"
-    updated_at: "2014-10-09T07:43:15Z"
+    updated_at: "2014-10-31T08:51:55Z"
     type: "simple"
     status: "publish"
-    downloadable: "false"
-    virtual: "false"
+    downloadable: false
+    virtual: false
     permalink: "http://www.artinpocket.cat/product/1-3-puigbert-2012-184/"
     sku: "W284"
-    price: 156
-    regular_price: 195
-    sale_price: 156
+    price: "156.00"
+    regular_price: "195.00"
+    sale_price: "156.00"
     price_html: "<del><span class=\"amount\">195,00&euro;</span></del> <ins><span class=\"amount\">156,00&euro;</span></ins>"
-    taxable: "true"
+    taxable: true
     tax_status: "taxable"
     tax_class: ""
-    managing_stock: "true"
+    managing_stock: true
     stock_quantity: 1
-    in_stock: "true"
-    backorders_allowed: "false"
-    backordered: "false"
-    sold_individually: "true"
-    purchaseable: "true"
-    featured: "false"
-    visible: "true"
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
     catalog_visibility: "visible"
-    on_sale: "true"
-    weight: ""
+    on_sale: true
+    weight: null
     dimensions: 
       length: "42.00"
       width: ""
       height: "60.00"
       unit: "cm"
-    shipping_required: "true"
-    shipping_taxable: "true"
+    shipping_required: true
+    shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p>estripada urbana 1.3</p>\n"
     short_description: ""
-    reviews_allowed: "true"
-    average_rating: 0
-    rating_count: "0"
-    related_ids: "3047,2316,2524,2522,2866"
-    upsell_ids: ""
-    cross_sell_ids: ""
-    categories: "#emocionaRt,-ANALOGIC"
-    tags: "Puigbert"
-    images: "[object Object]"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2687
+      - 2892
+      - 2938
+      - 2316
+      - 2434
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+    tags: 
+      - "Puigbert"
+    images: 
+      - 
+        id: 2281
+        created_at: "2014-08-04T10:37:12Z"
+        updated_at: "2014-08-04T10:37:12Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2013/08/1-3-puigbert-2012-184.jpg"
+        title: "1.3. Puigbert, 2012"
+        alt: ""
+        position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/08/1-3-puigbert-2012-184.jpg"
-    attributes: ""
-    downloads: ""
-    download_limit: "0"
-    download_expiry: "0"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
     download_type: ""
     purchase_note: ""
-    total_sales: "0"
-    variations: ""
-    parent: ""
+    total_sales: 0
+    variations: []
+    parent: []
   - 
     title: "Colibrí, flor. Aurembiaix Sabaté, 2014"
     id: 3287
     created_at: "2014-10-03T05:18:57Z"
-    updated_at: "2014-10-14T08:39:32Z"
+    updated_at: "2014-10-31T08:55:20Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -999,17 +1332,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Tinta xinesa i tintes de colors sobre paper fet a mà</p>\n"
-    short_description: ""
+    description: "<p><strong><em>Colibrí, flor</em>, tinta xinesa i tintes de colors sobre paper fet a mà </strong>(30x 30cm). A Aurembiaix l'art li permet expressar tot el procés intern que es desenvolupa de les seves experiències viscudes, una d'aquestes experiències és el fet de la seva maternitat, on hi ha hagut una transformació de la percepció de la vida,  del sentit filosòfic d'existir.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong>Aurembiaix ens mostra amb <em>Colibrí, flor</em> la seva manera d&#8217;observar la vida d&#8217;una manera poètica i espiritual.</strong></p>\n<p>&nbsp;</p>\n"
     reviews_allowed: true
-    average_rating: "0.00"
-    rating_count: 0
+    average_rating: "5.00"
+    rating_count: 1
     related_ids: 
-      - 3014
-      - 2610
-      - 2807
-      - 2912
-      - 2709
+      - 2494
+      - 2683
+      - 2693
+      - 2506
+      - 2716
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1041,7 +1374,7 @@
     title: "Silencio. Lola Kabuki, 2014"
     id: 3350
     created_at: "2014-10-16T07:26:17Z"
-    updated_at: "2014-10-16T07:38:33Z"
+    updated_at: "2014-10-28T14:13:38Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -1076,17 +1409,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Esta  pieza de acuarela y tinta sobre papel Canson 200 gr de la joven artista de Portugalete Lola Kabuki  forma parte de la colección \"Incomunicación\"</p>\n"
-    short_description: ""
+    description: "<p><strong><em>Silencio</em>, acuarela y tinta sobre papel Canson 200 gr </strong>(24x62cm) de la artista de Portugalete Lola Kabuki. <em>Silencio</em> forma parte de la colección “Incomunicación”. La artista se adentra en un estudio sobre las diferentes formas de incomunicación  que nos sometemos  los seres humanos. La misma artista nos cuenta: “nos mantenemos incomunicados, ya sea por no escuchar, por no poder o querer comunicarnos y por hallarnos envueltos en situaciones especiales, de violencia o de aislamiento”</p>\n"
+    short_description: "<p><strong>Lola Kabuki investiga, en <em>Silencio</em>,  las diferentes formas de incomunicación de las personas. </strong></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2711
-      - 2754
-      - 3342
-      - 2855
-      - 2422
+      - 2354
+      - 2863
+      - 2983
+      - 2892
+      - 3348
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1115,10 +1448,10 @@
     variations: []
     parent: []
   - 
-    title: "Selfie. Lola Kabuki, 2014 "
+    title: "Selfie. Lola Kabuki, 2014  "
     id: 3354
     created_at: "2014-10-16T07:45:34Z"
-    updated_at: "2014-10-16T08:16:03Z"
+    updated_at: "2014-10-28T21:03:13Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -1153,17 +1486,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Esta  pieza de acuarela y tinta sobre papel Canson 200 gr de la joven artista de Portugalete Lola Kabuki  forma parte de la colección \"La ciudad también tiene su encanto\"</p>\n"
-    short_description: ""
+    description: "<p><strong><em>Selfie, </em>acuarela y tinta sobre papel Canson 200 gr</strong>  (24 x 32cm) de la artista de Portugalete Lola Kabuki. <em>Selfie </em>forma parte de la colección \"La ciudad también tiene su encanto\". Escenas cotidianas de la vida en la ciudad. Las Figuras son sombras sin rostros pero nos acercamos a ellos por la familiaridad de sus actos.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong>Lola Kabuki nos muestra, a través de <em>Selfie,</em> las escenas cotidianas de la vida en la ciudad.</strong></p>\n"
     reviews_allowed: true
-    average_rating: "0.00"
-    rating_count: 0
+    average_rating: "5.00"
+    rating_count: 1
     related_ids: 
-      - 2822
-      - 2630
-      - 2840
-      - 2112
-      - 2598
+      - 3323
+      - 2300
+      - 2983
+      - 2458
+      - 2278
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1192,10 +1525,10 @@
     variations: []
     parent: []
   - 
-    title: "Incomprensión. Lola Kabuki, 2014"
+    title: "Incomprensión. Lola Kabuki, 2014 "
     id: 3352
     created_at: "2014-10-16T07:41:35Z"
-    updated_at: "2014-10-16T07:44:58Z"
+    updated_at: "2014-10-28T14:12:32Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -1230,17 +1563,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Esta  pieza de acuarela y tinta sobre papel Canson 200 gr de la joven artista de Portugalete Lola Kabuki  forma parte de la colección \"Incomunicación\"</p>\n"
-    short_description: ""
+    description: "<p><strong><em>Incomprensión,</em> acuarela y tinta sobre papel Canson 200 gr</strong> (24 x 30 cm) de la artista de Portugalete Lola Kabuki. Incomprensión forma parte de la colección<em> \"Incomunicación\". </em>La artista se adentra en un estudio sobre las diferentes formas de incomunicación  que nos sometemos  los seres humanos. La misma artista nos cuenta: \"<em>nos mantenemos incomunicados, ya sea por no escuchar, por no poder o querer comunicarnos y por hallarnos envueltos en situaciones especiales, de violencia o de aislamiento\"</em></p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong>Lola Kabuki investiga, en <em>Incomprensión</em>,  las diferentes formas de incomunicación de las personas.</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2968
-      - 3007
-      - 2530
-      - 2904
-      - 2566
+      - 2743
+      - 2412
+      - 2729
+      - 2943
+      - 3348
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1269,10 +1602,10 @@
     variations: []
     parent: []
   - 
-    title: "Salvatje, Marta Casals Juanola, 2014"
+    title: "Salvatge, Marta Casals Juanola, 2014"
     id: 3330
     created_at: "2014-10-14T08:46:01Z"
-    updated_at: "2014-10-14T09:41:08Z"
+    updated_at: "2014-10-28T13:30:24Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -1313,11 +1646,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2456
-      - 2758
-      - 3059
-      - 2322
-      - 2845
+      - 2490
+      - 2338
+      - 2318
+      - 2960
+      - 2778
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1390,11 +1723,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2402
-      - 2800
-      - 2807
-      - 2262
-      - 2767
+      - 2582
+      - 3062
+      - 3065
+      - 2470
+      - 2960
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1467,11 +1800,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2498
-      - 2406
-      - 2512
-      - 2941
-      - 2642
+      - 2592
+      - 3055
+      - 2748
+      - 2460
+      - 2660
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1500,7 +1833,7 @@
     variations: []
     parent: []
   - 
-    title: "Rostro con flores. Marta Casals Juanola, 2014  (Copy)"
+    title: "Rostro con flores. Marta Casals Juanola, 2014"
     id: 3346
     created_at: "2014-05-14T09:17:12Z"
     updated_at: "2014-10-14T09:37:28Z"
@@ -1544,11 +1877,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2899
-      - 2276
-      - 2570
-      - 2828
-      - 2372
+      - 2420
+      - 2496
+      - 2446
+      - 2360
+      - 3021
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1621,11 +1954,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 3295
-      - 2304
-      - 2592
-      - 2504
-      - 2290
+      - 2845
+      - 2769
+      - 2653
+      - 2914
+      - 2404
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1698,11 +2031,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2438
-      - 2522
-      - 2454
-      - 2260
-      - 2941
+      - 2965
+      - 3310
+      - 2634
+      - 2506
+      - 2657
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1775,11 +2108,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2788
-      - 3338
-      - 2632
-      - 2578
-      - 2562
+      - 2750
+      - 2486
+      - 3062
+      - 2897
+      - 2965
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1852,11 +2185,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2284
-      - 2934
-      - 2780
-      - 2917
-      - 2294
+      - 2698
+      - 2932
+      - 2972
+      - 2266
+      - 2550
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1888,7 +2221,7 @@
     title: "Lagrimas, Marta Casals Juanola, 2014"
     id: 3321
     created_at: "2014-05-14T08:20:42Z"
-    updated_at: "2014-10-14T09:56:06Z"
+    updated_at: "2014-10-24T10:19:30Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -1925,15 +2258,15 @@
     shipping_class_id: 71
     description: "<p>Acuarela</p>\n"
     short_description: ""
-    reviews_allowed: false
+    reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2512
-      - 2769
-      - 2861
-      - 2346
-      - 2272
+      - 2859
+      - 2713
+      - 2811
+      - 2774
+      - 3021
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -2083,11 +2416,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2904
-      - 2890
-      - 2936
-      - 2112
-      - 2701
+      - 2624
+      - 2826
+      - 3037
+      - 2912
+      - 2994
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -2116,10 +2449,10 @@
     variations: []
     parent: []
   - 
-    title: "Contra el viento, Marta Casals Juanola, 2014  (Copy)"
+    title: "Contra el viento, Marta Casals Juanola, 2014"
     id: 3332
     created_at: "2014-04-14T08:48:50Z"
-    updated_at: "2014-10-14T09:57:32Z"
+    updated_at: "2014-10-31T08:56:11Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -2160,11 +2493,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2608
-      - 3299
-      - 2698
-      - 2951
-      - 2274
+      - 2482
+      - 2899
+      - 2568
+      - 2788
+      - 2548
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -2237,11 +2570,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2274
-      - 2330
-      - 2820
-      - 2384
-      - 2818
+      - 2800
+      - 3012
+      - 2420
+      - 2454
+      - 2364
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -2273,7 +2606,7 @@
     title: "Lágrimas de peces, Marta Casals Juanola, 2014"
     id: 3323
     created_at: "2014-04-14T08:31:41Z"
-    updated_at: "2014-10-14T09:43:24Z"
+    updated_at: "2014-10-24T10:19:22Z"
     type: "simple"
     status: "publish"
     downloadable: false
@@ -2310,15 +2643,15 @@
     shipping_class_id: 71
     description: "<p>Aquarela</p>\n"
     short_description: ""
-    reviews_allowed: false
+    reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 3330
-      - 2758
-      - 2897
-      - 2811
-      - 3024
+      - 2334
+      - 3010
+      - 2550
+      - 2356
+      - 2965
     upsell_ids: []
     cross_sell_ids: []
     categories: 
