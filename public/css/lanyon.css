@@ -254,6 +254,9 @@ div.item p input.item_Quantity {
   margin-bottom: 3rem;
   border-bottom: 1px dashed #000000;
 }
+body.home .masthead {
+  margin-bottom: 0;
+}
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
