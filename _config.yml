@@ -30,6 +30,9 @@ full-shop:
 
 twitter-sentence: "| Disfruta #Emocionart"
 
+tooltip-analogic: "Arte concebido y creado con tecnologías analógicas."
+tooltip-digital: "Arte concebido y creado con tecnologías digitales, para ser consumido en dispositivos digitales."
+
 organitza:
   artinpocket:
     description:  'Artinpocket - organitzadores de #emocionart'
