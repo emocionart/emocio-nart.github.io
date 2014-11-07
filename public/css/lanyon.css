@@ -141,7 +141,7 @@ div.item p input.item_Quantity {
 }
 @media (min-width: 56rem) {
   body.mur-diari .post, .shop .post {
-    width: 22rem;
+    width: 17rem;
   }
   body.mur .post {
     width: 14rem;
