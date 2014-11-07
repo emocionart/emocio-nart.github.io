@@ -16,7 +16,7 @@ work: 2496
 {% for work in work limit:1 %}
 <figure class="text-center">
 	<div class="padding-artwork-container">
-		<div class="embed-container embed-container_4-3">
+		<div class="embed-container embed-container_9-16">
 			<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
 		</div>
 	</div>
@@ -40,7 +40,7 @@ Esta obra es sin duda una magnífica propuesta para sumergirte en la experiencia
 {% for work in work offset:1 %}
 <figure class="text-center">
 	<div class="padding-artwork-container">
-		<div class="embed-container embed-container_4-3">
+		<div class="embed-container embed-container_9-16">
 			<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
 		</div>
 	</div>
