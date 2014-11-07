@@ -50,6 +50,9 @@ sale-end: '2014-12-31T00:00:00+01:00'
 assets: 
   baseurl: /public/
 
+bower_components: 
+  baseurl: /bower_components/
+
 # Prose
 prose:
   rooturl: ''
