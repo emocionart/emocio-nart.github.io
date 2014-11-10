@@ -9,6 +9,9 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}css/poole.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/syntax.min.css
 {{ site.url }}{{ site.bower_components.baseurl }}core-image/core-image.min.html
+{{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.html
+{{ site.url }}{{ site.bower_components.baseurl }}polymer/layout.html
+{{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.js
 {{ site.url }}{{ site.assets.baseurl }}import-css-js.html
 {{ site.url }}{{ site.bower_components.baseurl }}platform/platform.js
 
