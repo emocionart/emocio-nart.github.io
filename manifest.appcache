@@ -8,13 +8,19 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}css/lanyon.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/poole.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/syntax.min.css
-{{ site.url }}{{ site.assets.baseurl }}Artinpocket_Icon_Pocket.png
+{{ site.url }}{{ site.assets.baseurl }}/img/{{ site.icon }}
 {{ site.url }}{{ site.bower_components.baseurl }}core-image/core-image.min.html
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.html
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/layout.html
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.js
 {{ site.url }}{{ site.assets.baseurl }}import-css-js.html
 {{ site.url }}{{ site.bower_components.baseurl }}platform/platform.js
+http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400
+//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css
+{{ site.url }}/vendor/bootstrap/css/bootstrap-custom.min.css
+{{ site.url }}/font-artinpocket/dist/stylesheet.min.css
+{{ site.url }}/public/js/jquery-2.1.0.min.js
+{{ site.url }}/vendor/bootstrap/js/bootstrap.min.js
 
 {% for page in site.pages %}{% if page.url != '/manifest.appcache' and page.url != '/404.html' %}{{ site.url }}{{ page.url }}{% endif %}
 {% endfor %}
