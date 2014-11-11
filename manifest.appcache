@@ -8,7 +8,8 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}css/lanyon.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/poole.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/syntax.min.css
-{{ site.url }}{{ site.assets.baseurl }}/img/{{ site.icon }}
+{{ site.url }}{{ site.assets.baseurl }}img/{{ site.icon }}
+{{ site.url }}{{ site.assets.baseurl }}img/baner-veure-les-estrelles-jordi-mitja-2014-artinpocket.jpg
 {{ site.url }}{{ site.bower_components.baseurl }}core-image/core-image.min.html
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.html
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/layout.html
