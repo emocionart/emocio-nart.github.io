@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Salvatje, Marta Casals Juanola, 2014"
+title: "Salvatge, Marta Casals Juanola, 2014"
 og: true
 og-type: product
 share: true

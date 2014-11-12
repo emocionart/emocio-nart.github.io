@@ -8,7 +8,7 @@
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/veure-les-estrelles-jordi-mitja-2014/"
+    permalink: "http://www.artinpocket.cat/producto/veure-les-estrelles-jordi-mitja-2014/"
     sku: "W788"
     price: "170.00"
     regular_price: "195.00"
@@ -44,11 +44,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2384
-      - 2985
-      - 2941
-      - 2554
-      - 2919
+      - 2899
+      - 2705
+      - 2556
+      - 2364
+      - 2818
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -79,12 +79,12 @@
     title: "El país de las últimas cosas_2. Carolina Pingarrón, 2013"
     id: 3010
     created_at: "2014-09-04T10:44:18Z"
-    updated_at: "2014-10-31T08:59:06Z"
+    updated_at: "2014-11-12T08:52:46Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/el-pais-de-las-ultimas-cosas_2-carolina-pingarron-2013-595/"
+    permalink: "http://www.artinpocket.cat/producto/el-pais-de-las-ultimas-cosas_2-carolina-pingarron-2013-595/"
     sku: "W695"
     price: "192.00"
     regular_price: "240.00"
@@ -114,17 +114,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p><strong><em>El país de las útlimas cosas_2</em>. Fotografía digital impresa sobre aluminio</strong> (50 x 30 cm).</p>\n"
+    description: "<p><strong><em>El país de las útlimas cosas_2</em>. Fotografía digital impresa sobre aluminio. </strong></p>\n<p>Así que, después de todo, no he estado soñando -se dijo así misma?-a no ser que fuésemos todos parte del mismo sueño. Sólo que si así fuera, ¡ojalá que el sueño sea el mio propio y no el del Rey rojo! No me gustaría nada pertenecer al sueño de otras personas.</p>\n<p>Lewis Carrol</p>\n<p>&nbsp;</p>\n"
     short_description: ""
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2743
-      - 2544
-      - 3028
-      - 2358
-      - 2994
+      - 2853
+      - 2556
+      - 2914
+      - 2953
+      - 2807
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -156,12 +156,12 @@
     title: "Des de els cims I. Sebi Subirós, 2014"
     id: 2804
     created_at: "2014-09-04T10:42:21Z"
-    updated_at: "2014-10-31T08:58:12Z"
+    updated_at: "2014-11-12T08:19:35Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/des-de-els-cims-i-sebi-subiros-2014-441/"
+    permalink: "http://www.artinpocket.cat/producto/des-de-els-cims-i-sebi-subiros-2014-441/"
     sku: "W541"
     price: "104.00"
     regular_price: "130.00"
@@ -191,17 +191,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Obra de la serie \"Des de els cims\"</p>\n"
-    short_description: ""
+    description: "<p>Esta obra pertenece a la colección“Des de els cims”  un conjunto de obras de collage y lápiz sobre papel de pequeño formato que formó parte de la exposición <em>Cims</em><strong><em> </em></strong>que Sebi Subirós inauguraba en setiembre 2013</p>\n"
+    short_description: "<p>Descubre a<a href=\"http://www.artinpocket.cat/etiqueta-producto/sebi-subiros/\"> Sebi Subirós </a>un artista influenciado por las técnicas de grabado; la pintura y la poesía visual y objetual.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2546
-      - 3326
-      - 2793
-      - 2651
-      - 2328
+      - 2693
+      - 2468
+      - 2859
+      - 2636
+      - 2556
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -238,7 +238,7 @@
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500/"
+    permalink: "http://www.artinpocket.cat/producto/la-madurez-de-la-joven-de-la-perla-txus-leal-tejada-2014-500/"
     sku: "W600"
     price: "80.00"
     regular_price: "100.00"
@@ -274,11 +274,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 3291
-      - 3062
-      - 2956
-      - 2268
-      - 2698
+      - 3005
+      - 2800
+      - 2772
+      - 2945
+      - 2332
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -384,12 +384,12 @@
     title: "S/O. Alona Vinç, 2013"
     id: 2462
     created_at: "2014-09-04T10:38:58Z"
-    updated_at: "2014-10-31T09:10:46Z"
+    updated_at: "2014-11-01T10:05:52Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/so-alona-vinc-2013-427/"
+    permalink: "http://www.artinpocket.cat/producto/so-alona-vinc-2013-427/"
     sku: "W527"
     price: "51.00"
     regular_price: "60.00"
@@ -425,11 +425,11 @@
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2687
-      - 2602
-      - 2748
-      - 2382
-      - 3340
+      - 2901
+      - 2754
+      - 2470
+      - 2894
+      - 2558
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -460,12 +460,12 @@
     title: "Camí de casa. Gerard Martínez Costa, 2013"
     id: 2444
     created_at: "2014-09-04T10:38:47Z"
-    updated_at: "2014-10-31T08:54:21Z"
+    updated_at: "2014-11-02T09:07:08Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/cami-de-casa-gerard-martinez-costa-2013-397/"
+    permalink: "http://www.artinpocket.cat/producto/cami-de-casa-gerard-martinez-costa-2013-397/"
     sku: "W497"
     price: "112.00"
     regular_price: "140.00"
@@ -495,17 +495,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Fotografia, pintura, sprays i vernissos</p>\n"
-    short_description: ""
+    description: "<p><em><strong>Camí de casa</strong></em>. <strong>Fotografia (paper fotogràfic), pintura, esprais i vernissos.</strong> ( 20 x 20 cm). L'artista es mostra captivat per la seva ciutat, i es deambulant pels seus carrer on hi captura la seva essència i la gent que hi transita. Gerard Martínez Costa, utilitza els colors vius i saturats que fan que les seves peces siguin molt <em>contemporànies; </em>alhora que  són un reflex de la seva visió personal de la realitat i l'admiració que sent per les coses i paisatges quotidians i urbans.</p>\n"
+    short_description: "<p><strong><em>Silueta urbana III.</em> Gerard Martínez Costa captura l&#8217;essència de la ciutat, en aquest cas Barcelona.</strong></p>\n"
     reviews_allowed: true
     average_rating: "4.00"
     rating_count: 1
     related_ids: 
-      - 2490
-      - 2788
-      - 2816
-      - 2434
-      - 2312
+      - 2588
+      - 2502
+      - 2432
+      - 2758
+      - 2991
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -536,12 +536,12 @@
     title: "nº10. Víctor Velasco, 2013"
     id: 2861
     created_at: "2014-08-04T10:42:55Z"
-    updated_at: "2014-10-31T09:08:17Z"
+    updated_at: "2014-11-12T09:10:21Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/no10-victor-velasco-2013-469/"
+    permalink: "http://www.artinpocket.cat/producto/no10-victor-velasco-2013-469/"
     sku: "W569"
     price: "24.00"
     regular_price: "30.00"
@@ -571,17 +571,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Perteneciente a la Serie X. Una serie de fotografías en detalle, que pretenden indagar en los más intimo de cada persona, su tamaño reducido hace que el espectador tenga que acercarse a verlo, creando así un efecto voyeur.<br />\nhttp://www.dvplasticartists.com/#!serie-x/c1rq</p>\n"
-    short_description: ""
+    description: "<p>Perteneciente a la Serie X. Una serie de fotografías en detalle, que pretenden indagar en los más intimo de cada persona, su tamaño reducido hace que el espectador tenga que acercarse a verlo, creando así un efecto voyeur.<br />\nLa trayectorias artísticas de Diana Coandă y Víctor Velasco se cruzan en el año 2012 fruto de la apreciación de la cultura y el arte en la calle. Las formas sencillas pero con mensaje y la apuesta por un arte efímero se comparte y se complementa. Coincidencia o casualidad, la idea artística mejora con esta unión.</p>\n"
+    short_description: "<p>La curva; la recta. Lo liviano; lo rudo. Lo blanco; lo negro. Ausencia; presencia. Ella; él. D;V.</p>\n"
     reviews_allowed: true
     average_rating: "3.00"
     rating_count: 1
     related_ids: 
-      - 2528
-      - 2960
-      - 2890
-      - 2672
-      - 2734
+      - 2624
+      - 2724
+      - 2488
+      - 2847
+      - 2632
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -694,7 +694,7 @@
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/hilar-el-cielo-caseta-magica-2014-605/"
+    permalink: "http://www.artinpocket.cat/producto/hilar-el-cielo-caseta-magica-2014-605/"
     sku: "W705"
     price: "80.00"
     regular_price: "100.00"
@@ -730,11 +730,11 @@
     average_rating: "4.50"
     rating_count: 2
     related_ids: 
-      - 2802
-      - 2450
-      - 2470
-      - 2826
-      - 2498
+      - 2592
+      - 2836
+      - 2962
+      - 2849
+      - 2947
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -762,15 +762,15 @@
     variations: []
     parent: []
   - 
-    title: "SILENCIO, SE RUEDA!. ME BES, 2014"
+    title: "¡SILENCIO, SE RUEDA!. ME BES, 2014"
     id: 2472
     created_at: "2014-08-04T10:39:04Z"
-    updated_at: "2014-10-31T09:11:31Z"
+    updated_at: "2014-11-02T09:25:00Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/silencio-se-rueda-me-bes-2014-432/"
+    permalink: "http://www.artinpocket.cat/producto/silencio-se-rueda-me-bes-2014-432/"
     sku: "W532"
     price: "120.00"
     regular_price: "150.00"
@@ -800,17 +800,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Retrato de Alfred Hitchcock sobre collage de carteles publicitarios sacados de la pared de una calle cualquiera. Se intenta sacar ese trozo de la calle a la obra, dándole la esencia inicial.</p>\n"
-    short_description: ""
+    description: "<p><strong><em>¡Silencio, se rueda!</em> Collage </strong>(40 x 50cm). Las obras de Me Bes nacen des de el arte urbano y mezcla el collage con el spray aplicado con plantillas, dando forma a diferentes retratros de personajes reconocidos. A través de la aplicación de sray, a partir de uno o varios colores y sus degradaciones, logrando una mezcla capaz de captar el realismo de una imagen.</p>\n"
+    short_description: "<p><strong><em>¡Silencio Se Rueda!</em> Retrato de Alfred Hitchcock sobre collage de carteles publicitarios sacados de la pared de una calle cualquiera. Se intenta sacar ese trozo de la calle a la obra, dándole la esencia inicial. </strong></p>\n"
     reviews_allowed: true
     average_rating: "4.00"
     rating_count: 1
     related_ids: 
-      - 2354
-      - 2316
-      - 2996
-      - 2793
-      - 2991
+      - 2360
+      - 2998
+      - 3012
+      - 2364
+      - 2870
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -841,12 +841,12 @@
     title: "L/S. Alona Vinç, 2013"
     id: 2464
     created_at: "2014-08-04T10:38:59Z"
-    updated_at: "2014-10-31T09:06:53Z"
+    updated_at: "2014-11-01T10:18:20Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/ls-alona-vinc-2013-428/"
+    permalink: "http://www.artinpocket.cat/producto/ls-alona-vinc-2013-428/"
     sku: "W528"
     price: "51.00"
     regular_price: "60.00"
@@ -876,17 +876,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p><em><strong>L/S</strong> </em><strong>Técnica transferencia</strong> (25 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n"
-    short_description: "<p><strong><em>L/S. Alona Vinç: &#8220;Espacios y mar, verano y sal&#8221;</em></strong></p>\n"
+    description: "<p><em><strong>L/S</strong>. </em><strong>Técnica transferencia</strong> (25 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n"
+    short_description: "<p><strong><em>L/S. </em>Alona Vinç<em>: &#8220;Espacios y mar, verano y sal&#8221;</em></strong></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 3326
-      - 2919
-      - 2428
-      - 2498
-      - 2276
+      - 2972
+      - 2514
+      - 2512
+      - 2516
+      - 2510
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -917,12 +917,12 @@
     title: "L/E. Alona Vinç, 2013"
     id: 2460
     created_at: "2014-08-04T10:38:57Z"
-    updated_at: "2014-10-31T09:06:09Z"
+    updated_at: "2014-11-01T10:07:40Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/le-alona-vinc-2013-426/"
+    permalink: "http://www.artinpocket.cat/producto/le-alona-vinc-2013-426/"
     sku: "W526"
     price: "51.00"
     regular_price: "60.00"
@@ -952,17 +952,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Observar las lineas del horizonte, una casa, un árbol, ese aroma que vuelve...</p>\n"
-    short_description: ""
+    description: "<p><em><strong>L/E</strong></em>.<strong>Técnica transferencia</strong> (24,90 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n"
+    short_description: "<p><em><strong>L/E. </strong></em><strong>Alona Vinç</strong>:<em> <strong>Observar las líneas del horizonte, una casa, un árbol, ese aroma que vuelve.</strong></em></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2683
+      - 2584
+      - 3346
+      - 2772
+      - 3352
       - 2648
-      - 2876
-      - 3328
-      - 2873
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -993,12 +993,12 @@
     title: "P/E. Alona Vinç, 2013"
     id: 2458
     created_at: "2014-08-04T10:38:56Z"
-    updated_at: "2014-10-31T09:09:37Z"
+    updated_at: "2014-11-01T10:08:23Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/pe-alona-vinc-2013-425/"
+    permalink: "http://www.artinpocket.cat/producto/pe-alona-vinc-2013-425/"
     sku: "W525"
     price: "51.00"
     regular_price: "60.00"
@@ -1028,17 +1028,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Absorto en el espacio</p>\n"
-    short_description: ""
+    description: "<p><em><b>P/E</b>. </em><strong>Técnica transferencia</strong> (25 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n"
+    short_description: "<p><em><strong>P/E</strong></em>. <strong>Alona Vinç: &#8220;<em><strong>A</strong>bsorto en el espacio&#8221;.</em></strong></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2302
-      - 2352
-      - 2782
-      - 2578
-      - 2330
+      - 2528
+      - 2290
+      - 3344
+      - 2360
+      - 2358
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1069,12 +1069,12 @@
     title: "D/T. Alona Vinç, 2013"
     id: 2456
     created_at: "2014-08-04T10:38:55Z"
-    updated_at: "2014-10-31T08:57:19Z"
+    updated_at: "2014-11-01T10:15:38Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/dt-alona-vinc-2013-424/"
+    permalink: "http://www.artinpocket.cat/producto/dt-alona-vinc-2013-424/"
     sku: "W524"
     price: "85.00"
     regular_price: "100.00"
@@ -1104,17 +1104,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Individuos que luchan dentro de sus posibilidades</p>\n"
-    short_description: ""
+    description: "<p><em><b>D/T</b>. </em><strong>Técnica transferencia</strong> (25 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n"
+    short_description: "<p><strong>D/T</strong>.<strong> Alona Vinç: &#8220;<em>Individuos que luchan dentro de sus posibilidades</em>&#8220;</strong></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 3003
-      - 2758
+      - 2112
+      - 2266
+      - 2923
+      - 2408
       - 2562
-      - 2709
-      - 3330
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1145,12 +1145,12 @@
     title: "C/P. Alona Vinç, 2013"
     id: 2454
     created_at: "2014-08-04T10:38:54Z"
-    updated_at: "2014-10-31T08:53:35Z"
+    updated_at: "2014-11-12T08:20:35Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/cp-alona-vinc-2013-423/"
+    permalink: "http://www.artinpocket.cat/producto/cp-alona-vinc-2013-423/"
     sku: "W523"
     price: "51.00"
     regular_price: "60.00"
@@ -1180,17 +1180,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Simetrías, observar su presa, supervivencia</p>\n"
-    short_description: ""
+    description: "<p><em><b>C/P.</b> </em><strong>Técnica transferencia</strong> (25 x 25cm). Alona Vinç ,mujer que proviene del mar y que cambia de apellido como parte de una historia vital indisociable a las transformaciones que uno experimenta año tras año, relación tras relación, trabajo tras trabajo. Con ese consciente bagaje, tiene mucho que contar y lo narra con sus habilidades gráficas y, aunque ella no lo reconozca, también textuales.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong><em>C/P</em>.</strong> <strong>Alona Vinç: <em>&#8220;Simetrías, observar su presa, supervivencia&#8221; El regalo es siempre una tarjeta de visita de la persona que lo aporta, por eso si regalas arte también tú obtienes algo a cambio.</em></strong></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2824
-      - 2934
-      - 2586
-      - 2476
-      - 2870
+      - 2763
+      - 2716
+      - 2480
+      - 2372
+      - 2921
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1297,12 +1297,12 @@
     title: "Colibrí, flor. Aurembiaix Sabaté, 2014"
     id: 3287
     created_at: "2014-10-03T05:18:57Z"
-    updated_at: "2014-10-31T08:55:20Z"
+    updated_at: "2014-11-05T09:59:37Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/colibri-flor-aurembiaix-sabate-2014/"
+    permalink: "http://www.artinpocket.cat/producto/colibri-flor-aurembiaix-sabate-2014/"
     sku: "W579"
     price: "84.15"
     regular_price: "99.00"
@@ -1338,11 +1338,11 @@
     average_rating: "5.00"
     rating_count: 1
     related_ids: 
-      - 2494
-      - 2683
-      - 2693
-      - 2506
-      - 2716
+      - 2784
+      - 2745
+      - 2793
+      - 3310
+      - 2328
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1528,12 +1528,12 @@
     title: "Incomprensión. Lola Kabuki, 2014 "
     id: 3352
     created_at: "2014-10-16T07:41:35Z"
-    updated_at: "2014-10-28T14:12:32Z"
+    updated_at: "2014-11-04T11:13:11Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/incomprension-lola-kabuki-2014/"
+    permalink: "http://www.artinpocket.cat/producto/incomprension-lola-kabuki-2014/"
     sku: "W804"
     price: "180.00"
     regular_price: "180.00"
@@ -1564,16 +1564,16 @@
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p><strong><em>Incomprensión,</em> acuarela y tinta sobre papel Canson 200 gr</strong> (24 x 30 cm) de la artista de Portugalete Lola Kabuki. Incomprensión forma parte de la colección<em> \"Incomunicación\". </em>La artista se adentra en un estudio sobre las diferentes formas de incomunicación  que nos sometemos  los seres humanos. La misma artista nos cuenta: \"<em>nos mantenemos incomunicados, ya sea por no escuchar, por no poder o querer comunicarnos y por hallarnos envueltos en situaciones especiales, de violencia o de aislamiento\"</em></p>\n<p>&nbsp;</p>\n"
-    short_description: "<p><strong>Lola Kabuki investiga, en <em>Incomprensión</em>,  las diferentes formas de incomunicación de las personas.</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong>Lola Kabuki investiga, en <em>Incomprensión</em>,  las diferentes formas de incomunicación de las personas.</strong></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2743
-      - 2412
-      - 2729
-      - 2943
-      - 3348
+      - 2440
+      - 2876
+      - 2386
+      - 2880
+      - 2814
     upsell_ids: []
     cross_sell_ids: []
     categories: 
@@ -1605,12 +1605,12 @@
     title: "Salvatge, Marta Casals Juanola, 2014"
     id: 3330
     created_at: "2014-10-14T08:46:01Z"
-    updated_at: "2014-10-28T13:30:24Z"
+    updated_at: "2014-11-12T09:28:24Z"
     type: "simple"
     status: "publish"
     downloadable: false
     virtual: false
-    permalink: "http://www.artinpocket.cat/product/salvatje-marta-casals-juanola-2014/"
+    permalink: "http://www.artinpocket.cat/producto/salvatje-marta-casals-juanola-2014/"
     sku: "W793"
     price: "100.00"
     regular_price: "110.00"
@@ -1640,17 +1640,17 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Aquarela</p>\n"
-    short_description: ""
+    description: "<p>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes con tratados con un trazo suelto y espontáneo.<em> Salvaje</em> es una magnífica oportunidad para adquirir esta obra de  Marta Casals esta joven nacida en Figueres, y que en 1995 se traslada a Barcelona para iniciar sus estudios de arte. En la capital condal Marta amplia su formación y empieza a realizar exposiciones individuales y colectivas. Actualmente trabaja desde su estudio de arte barcelonés en nuevas propuestas y proyectos.</p>\n"
+    short_description: "<p>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes con tratados con un trazo suelto y espontáneo</p>\n"
     reviews_allowed: false
     average_rating: "0.00"
     rating_count: 0
     related_ids: 
-      - 2490
-      - 2338
-      - 2318
-      - 2960
-      - 2778
+      - 2818
+      - 2550
+      - 2705
+      - 2504
+      - 2906
     upsell_ids: []
     cross_sell_ids: []
     categories: 
