@@ -192,7 +192,7 @@
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p>Esta obra pertenece a la colección“Des de els cims”  un conjunto de obras de collage y lápiz sobre papel de pequeño formato que formó parte de la exposición <em>Cims</em><strong><em> </em></strong>que Sebi Subirós inauguraba en setiembre 2013</p>\n"
-    short_description: "<p>Descubre a<a href=\"http://www.artinpocket.cat/etiqueta-producto/sebi-subiros/\"> Sebi Subirós </a>un artista influenciado por las técnicas de grabado; la pintura y la poesía visual y objetual.</p>\n"
+    short_description: "<p><strong>Descubre a<a href=\"http://www.artinpocket.cat/etiqueta-producto/sebi-subiros/\"> Sebi Subirós </a>un artista influenciado por las técnicas de grabado; la pintura y la poesía visual y objetual.</strong></p>\n"
     reviews_allowed: true
     average_rating: "0.00"
     rating_count: 0
@@ -649,7 +649,7 @@
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p><strong><em>No me interrumpas, </em>collage (papel) con objeto </strong>(16 x 16 cm).  Caseta Mágica, és un  projecte artístic que neix a València i desenvolupa el seu treball dins el món gràfic. El procés creatiu i en conseqüència les seves peces són un reflex de la necessitat de transformar el que ens envolta, de revisió d’allò establert. Aquesta premissa la duen a terme donant marge a l’espontaneïtat, al joc i a la diversió. Caseta Magica entén “<em>el treball com a creació i la vida com a treball creatiu</em>”.</p>\n"
-    short_description: "<p><strong><em>No me interrumpas</em>, és una peça realitzada amb un objecte trobat. La nova utilització ens aporta un canvi de visió que actua com a generador de pensament, d&#8217;actitud i de percepció de la realitat; tot això s&#8217;aconsegueix donant valor a lo inútil. Aquesta obra és pura poesia.</strong></p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong><em>No me interrumpas</em>, és una peça realitzada amb un objecte trobat. La nova utilització ens aporta un canvi de visió que actua com a generador de pensament, d&#8217;actitud i de percepció de la realitat; tot això s&#8217;aconsegueix donant valor a lo inútil. Aquesta obra és pura poesia.</strong></p>\n"
     reviews_allowed: true
     average_rating: "4.50"
     rating_count: 2
@@ -1333,7 +1333,7 @@
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p><strong><em>Colibrí, flor</em>, tinta xinesa i tintes de colors sobre paper fet a mà </strong>(30x 30cm). A Aurembiaix l'art li permet expressar tot el procés intern que es desenvolupa de les seves experiències viscudes, una d'aquestes experiències és el fet de la seva maternitat, on hi ha hagut una transformació de la percepció de la vida,  del sentit filosòfic d'existir.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
-    short_description: "<p><strong>Aurembiaix ens mostra amb <em>Colibrí, flor</em> la seva manera d&#8217;observar la vida d&#8217;una manera poètica i espiritual.</strong></p>\n<p>&nbsp;</p>\n"
+    short_description: "<p><strong>Aurembiaix ens mostra amb <em>Colibrí, flor</em> la seva manera d&#8217;observar la vida d&#8217;una manera poètica i espiritual.</strong></p>\n"
     reviews_allowed: true
     average_rating: "5.00"
     rating_count: 1
