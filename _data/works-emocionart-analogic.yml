@@ -1640,8 +1640,8 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes con tratados con un trazo suelto y espontáneo.<em> Salvaje</em> es una magnífica oportunidad para adquirir esta obra de  Marta Casals esta joven nacida en Figueres, y que en 1995 se traslada a Barcelona para iniciar sus estudios de arte. En la capital condal Marta amplia su formación y empieza a realizar exposiciones individuales y colectivas. Actualmente trabaja desde su estudio de arte barcelonés en nuevas propuestas y proyectos.</p>\n"
-    short_description: "<p><strong>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes con tratados con un trazo suelto y espontáneo</strong></p>\n"
+    description: "<p>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes, tratados con un trazo suelto y espontáneo.<em> Salvaje</em> es una magnífica oportunidad para adquirir esta obra de  Marta Casals esta joven nacida en Figueres, y que en 1995 se traslada a Barcelona para iniciar sus estudios de arte. En la capital condal Marta amplia su formación y empieza a realizar exposiciones individuales y colectivas. Actualmente trabaja desde su estudio de arte barcelonés en nuevas propuestas y proyectos.</p>\n"
+    short_description: "<p><strong>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes, tratados con un trazo suelto y espontáneo</strong></p>\n"
     reviews_allowed: false
     average_rating: "0.00"
     rating_count: 0
