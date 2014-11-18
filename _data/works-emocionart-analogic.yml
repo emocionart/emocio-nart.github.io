@@ -1641,7 +1641,7 @@
     shipping_class: "transport"
     shipping_class_id: 71
     description: "<p>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes con tratados con un trazo suelto y espontáneo.<em> Salvaje</em> es una magnífica oportunidad para adquirir esta obra de  Marta Casals esta joven nacida en Figueres, y que en 1995 se traslada a Barcelona para iniciar sus estudios de arte. En la capital condal Marta amplia su formación y empieza a realizar exposiciones individuales y colectivas. Actualmente trabaja desde su estudio de arte barcelonés en nuevas propuestas y proyectos.</p>\n"
-    short_description: "<p>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes con tratados con un trazo suelto y espontáneo</p>\n"
+    short_description: "<p><strong>Esta obra en Acuarela es un reflejo de su obra dónde están presentes los colores vivos y vibrantes con tratados con un trazo suelto y espontáneo</strong></p>\n"
     reviews_allowed: false
     average_rating: "0.00"
     rating_count: 0
@@ -2439,83 +2439,6 @@
         alt: ""
         position: 0
     featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/salvatges1.jpg"
-    attributes: []
-    downloads: []
-    download_limit: 0
-    download_expiry: 0
-    download_type: ""
-    purchase_note: ""
-    total_sales: 0
-    variations: []
-    parent: []
-  - 
-    title: "Contra el viento, Marta Casals Juanola, 2014"
-    id: 3332
-    created_at: "2014-04-14T08:48:50Z"
-    updated_at: "2014-10-31T08:56:11Z"
-    type: "simple"
-    status: "publish"
-    downloadable: false
-    virtual: false
-    permalink: "http://www.artinpocket.cat/product/contra-el-viento-marta-casals-juanola-2014-copy/"
-    sku: "W794"
-    price: "100.00"
-    regular_price: "110.00"
-    sale_price: "100.00"
-    price_html: "<del><span class=\"amount\">110,00&euro;</span></del> <ins><span class=\"amount\">100,00&euro;</span></ins>"
-    taxable: true
-    tax_status: "taxable"
-    tax_class: ""
-    managing_stock: true
-    stock_quantity: 1
-    in_stock: true
-    backorders_allowed: false
-    backordered: false
-    sold_individually: true
-    purchaseable: true
-    featured: false
-    visible: true
-    catalog_visibility: "visible"
-    on_sale: true
-    weight: null
-    dimensions: 
-      length: "60"
-      width: ""
-      height: "30"
-      unit: "cm"
-    shipping_required: true
-    shipping_taxable: true
-    shipping_class: "transport"
-    shipping_class_id: 71
-    description: "<p>Aquarela</p>\n"
-    short_description: ""
-    reviews_allowed: false
-    average_rating: "0.00"
-    rating_count: 0
-    related_ids: 
-      - 2482
-      - 2899
-      - 2568
-      - 2788
-      - 2548
-    upsell_ids: []
-    cross_sell_ids: []
-    categories: 
-      - "#emocionaRt"
-      - "-ANALOGIC"
-      - "Marta Casals Juanola. #EmocionArt"
-    tags: 
-      - "Marta Casals Juanola"
-    images: 
-      - 
-        id: 3333
-        created_at: "2014-10-14T08:49:21Z"
-        updated_at: "2014-10-14T08:49:51Z"
-        src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/perfil.jpg"
-        title: "Marta-Casals Juanola-Contra el viento -Aquarela"
-        alt: ""
-        position: 0
-    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/perfil.jpg"
     attributes: []
     downloads: []
     download_limit: 0
