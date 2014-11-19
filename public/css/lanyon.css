@@ -57,7 +57,7 @@ h1 {
 figure{
   background-color: rgba(250,230,20,1);
   padding: 1em;
-  margin: .25rem;
+  margin: .25rem -1rem;
 }
 figure img {
   display: inline;
