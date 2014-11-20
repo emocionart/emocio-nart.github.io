@@ -3,7 +3,7 @@
   <google-map-marker latitude="{{ place.latitude }}" longitude="{{ place.longitude }}"
                      title="{{ place.name }}" draggable="false" icon="/public/favicon.ico">
        <p><strong>{{ place.name }}</strong></p>
-       <p><small>Dirección: {{ place.address }}<br/>Teléfono: <a href="tel:{{ place.phone }}">{{ place.phone }}</a></small></p>
+       <p><small><strong>Dirección:</strong> {{ place.address }}<br/><strong>Teléfono:</strong> <a href="tel:{{ place.phone }}">{{ place.phone }}</a></small></p>
        <p><small><a href="{{ place.url }}" title="{{ place.name }}" rel="external">url</a> | <a href="https://twitter.com/{{ place.twitter }}" title="@{{ place.twitter }} rel="external"">t</a> | <a href="{{ place.facebook }}" title="{{ place.name }} en Facebook" rel="external">f</a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external">e</a></small></p>
   </google-map-marker>
 {% endfor %}
