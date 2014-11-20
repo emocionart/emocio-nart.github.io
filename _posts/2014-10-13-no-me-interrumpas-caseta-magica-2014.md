@@ -19,9 +19,11 @@ work: 2606
 {% assign work = work_data | first %}
 <figure class="text-center">
 	<div class="padding-artwork-container">
-		<div class="embed-container embed-container_4-3">
-			<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
-		</div>
+		<a href="{{ page.url }}" title="{{ page.title }}">
+			<div class="embed-container embed-container_4-3">
+				<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
+			</div>
+		</a>
 	</div>
 	<figcaption>
 		<p><small><strong>{{ work.title }}</strong> | {% if work.downloadable == true %} digital art{% else if %} dimensiones: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}{% endif %}</small></p>
