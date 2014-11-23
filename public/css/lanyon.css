@@ -215,10 +215,14 @@ div.item p input.item_Quantity {
  * use an outter wrap to position the sidebar without interferring with the
  * regular page content.
  */
-
+.address {
+  display: none;
+}
+@media (min-width: 38rem) {
  .address {
   background: rgba(250,230,20,1);
   border-bottom: 1px dashed;
+  display: block;
  }
  .address p {
   margin-bottom: 0;
@@ -226,6 +230,7 @@ div.item p input.item_Quantity {
  .address p small {
   font-size: 55%;
  }
+}
 
 /*
  * Container
