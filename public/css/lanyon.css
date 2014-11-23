@@ -208,6 +208,24 @@ div.item p input.item_Quantity {
   vertical-align: middle;
 }
 
+/*
+ * Wrapper
+ *
+ * The wrapper is used to position site content when the sidebar is toggled. We
+ * use an outter wrap to position the sidebar without interferring with the
+ * regular page content.
+ */
+
+ .address {
+  background: rgba(250,230,20,1);
+  border-bottom: 1px dashed;
+ }
+ .address p {
+  margin-bottom: 0;
+ }
+ .address p small {
+  font-size: 55%;
+ }
 
 /*
  * Container
