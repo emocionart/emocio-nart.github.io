@@ -220,12 +220,22 @@ div.item p input.item_Quantity {
 }
 @media (min-width: 38rem) {
  .address {
-  background: rgba(250,230,20,1);
+  background: black;
   border-bottom: 1px dashed;
   display: block;
+  color: rgba(250,230,20,1);
  }
  .address p {
   margin-bottom: 0;
+ }
+ .address strong {
+  color: rgba(250,230,20,1);
+ }
+ .address a {
+  color: #ffffff;
+ }
+ .address a:hover {
+  color: #eeeeee;
  }
  .address p small {
   font-size: 55%;

@@ -14,7 +14,7 @@ layout: compress
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       {% for place in site.data.places | where:"id", 1 %}
-      <div class="address"><p class="text-center"><small><strong>Dirección:</strong> {{ place.address }} - <strong>Teléfono:</strong> <a href="tel:{{ place.phone }}">{{ place.phone }}</a> - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="https://twitter.com/{{ place.twitter }}" title="@{{ place.twitter }} rel="external""><i class="fa fa-twitter"></i></a> | <a href="{{ place.facebook }}" title="{{ place.name }} en Facebook" rel="external"><i class="fa fa-facebook"></i></a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a></small></p></div>
+      <div class="address"><p class="text-center"><small><strong>Dirección:</strong> {{ place.address }} - <strong>Teléfono:</strong> <a href="tel:{{ place.phone }}">{{ place.phone }}</a> - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="https://twitter.com/{{ place.twitter }}" title="@{{ place.twitter }}" rel="external"><i class="fa fa-twitter"></i></a> | <a href="{{ place.facebook }}" title="{{ place.name }} en Facebook" rel="external"><i class="fa fa-facebook"></i></a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a></small></p></div>
       {% endfor %}
       <div class="masthead">
         <div class="container">
