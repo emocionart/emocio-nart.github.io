@@ -1371,6 +1371,84 @@
     variations: []
     parent: []
   - 
+    title: "Libèl.lula i atuell II. Aurembiaix Sabaté, 2014"
+    id: 2660
+    created_at: "2014-08-04T10:41:01Z"
+    updated_at: "2014-12-13T08:58:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/libel-lula-i-atuell-ii-aurembiaix-sabate-2014-478/"
+    sku: "W578"
+    price: "220.00"
+    regular_price: "275.00"
+    sale_price: "220.00"
+    price_html: "<del><span class=\"amount\">275,00&euro;</span></del> <ins><span class=\"amount\">220,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "50.00"
+      width: ""
+      height: "50.00"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Obra inspirada en Haikus del Llibre\"Postals no escrites\", de la Felícia Fuster.<br />\nM'interessa el diàleg que tenim com a éssers humans amb el medi en l'àmbit cognitiu i espiritual. A través de l'observació de la natura, plasmar instants anecdòtics, juntament amb alguns objectes i símbols, indagant així en la percepció que existeix quan estem amb atenció, per això la presència dels elements es mostra tan contundent, emergint en el blanc, endinsant-nos en un procés de meditació i calma, a través de la contemplació i la maduració del que s'esdevé en el nostre entorn.</p>\n"
+    short_description: "<p><strong>Obra inspirada en Haikus del Llibre &#8220;Postals no escrites&#8221;, de la Felícia Fuster.</strong></p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3057
+      - 2604
+      - 2807
+      - 2442
+      - 2861
+    upsell_ids: []
+    cross_sell_ids: []
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Aurembiaix Sabaté. obres petit format"
+      - "Oportunidad"
+    tags: 
+      - "Aurembiaix Sabaté"
+    images: 
+      - 
+        id: 3734
+        created_at: "2014-12-12T07:05:32Z"
+        updated_at: "2014-12-12T07:05:54Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/08/tupuna-libelula.jpg"
+        title: "Aurembiax-tupuna-libelula-artinpocket"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/08/tupuna-libelula.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
     title: "Silencio. Lola Kabuki, 2014"
     id: 3350
     created_at: "2014-10-16T07:26:17Z"
