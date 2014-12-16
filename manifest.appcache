@@ -8,9 +8,9 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}css/lanyon.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/poole.min.css
 {{ site.url }}{{ site.assets.baseurl }}css/syntax.min.css
-{{ site.url }}{{ site.assets.baseurl }}/img/touch/chrome-touch-icon-192x192.png
+{{ site.url }}{{ site.assets.baseurl }}img/touch/chrome-touch-icon-192x192.png
 {{ site.url }}/apple-touch-icon-precomposed.png
-{{ site.url }}{{ site.assets.baseurl }}/img/touch/ms-touch-icon-144x144-precomposed.png
+{{ site.url }}{{ site.assets.baseurl }}img/touch/ms-touch-icon-144x144-precomposed.png
 {{ site.url }}/favicon.ico
 {{ site.url }}{{ site.assets.baseurl }}img/Artinpocket_Icon_Pocket.png
 {{ site.url }}{{ site.assets.baseurl }}img/artinpocket-organitzadors-barcelona-digital-art-footer.jpg
