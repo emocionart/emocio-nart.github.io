@@ -41,7 +41,7 @@
   <meta name="twitter:site" content="@{{ site.twitter }}">
   <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content='{{ work-digital.short_description }}{{ work-analogic.short_description }}'>
+  <meta name="twitter:description" content="{{ work-digital.description | strip_html }}{{ work-analogic.description | strip_html }}">
   <meta name="twitter:image:src" content="{{ work-digital.featured_src }}{{ work-analogic.featured_src }}">
   {% endif %}
 
