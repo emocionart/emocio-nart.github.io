@@ -2756,3 +2756,237 @@
     total_sales: 0
     variations: []
     parent: []
+  - 
+    title: "Sagrada Família. Àngels Estella, 2014"
+    id: 3833
+    created_at: "2014-12-19T06:09:40Z"
+    updated_at: "2014-12-19T06:16:39Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/sagrada-familia-angels-estella-2014/"
+    sku: "W820"
+    price: "30.00"
+    regular_price: "30.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">30,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 5
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "21"
+      width: ""
+      height: "24"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p class=\"western\"><strong>Sagrada Família</strong> – Barcelona- Place very popular around the world</p>\n<p class=\"western\">Un total de cinco reproducciones Acuarela formato 21x24cm sobre papel.</p>\n"
+    short_description: "<p><strong>Sagrada Família</strong> – Barcelona- Place very popular around the world</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2958
+      - 3350
+      - 3005
+      - 2380
+      - 3037
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Oportunidad"
+    tags: 
+      - "Àngels Estella Pont"
+    images: 
+      - 
+        id: 3834
+        created_at: "2014-12-19T06:15:26Z"
+        updated_at: "2014-12-19T06:15:26Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/12/Sagrada-Familia-Aquarel·la-Angles-estella.jpg"
+        title: "Sagrada-Familia-Aquarel·la-Angles-estella"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/12/Sagrada-Familia-Aquarel·la-Angles-estella.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Mercat. Àngels Estella, 2014"
+    id: 3826
+    created_at: "2014-12-16T14:45:28Z"
+    updated_at: "2014-12-19T06:09:32Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/mercat-angels-estella/"
+    sku: "W819"
+    price: "80.00"
+    regular_price: "80.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">80,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "56"
+      width: ""
+      height: "42"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p class=\"western\"><em><strong>Mercat </strong></em>de Ángels Estella es una <strong>acuarela original</strong>. Pintada con colores Windsor and Newton y sobre papel Arches de 300 grs. Ambiente de mercado que todos hemos visitado en alguna ocasión en todo el mundo. Movimiento y vida.</p>\n<hr />\n<p><strong><em>Mercat</em></strong> d'Àngels Estella és una <strong>aquarel.la original</strong>. Pintada amb colors Windsor and Newton i sobre paper Arches de 300 grs. Ambient de mercat que tots hem visitat en alguna ocasió arreu del món. Moviment i vida.</p>\n"
+    short_description: "<p><strong>Moviment i vida als mercats</strong></p>\n<hr />\n<p>&nbsp;</p>\n<p><strong>Movimiento y vida en los mercados </strong></p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2859
+      - 2462
+      - 2260
+      - 2970
+      - 2851
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Oportunidad"
+    tags: 
+      - "Àngels Estella Pont"
+    images: 
+      - 
+        id: 3827
+        created_at: "2014-12-16T14:50:28Z"
+        updated_at: "2014-12-16T14:50:28Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/12/Aquarel.la-Mercat-Ángels-Estella-.jpg"
+        title: "Aquarel.la-Mercat-Ángels-Estella"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/12/Aquarel.la-Mercat-Ángels-Estella-.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Cúpula del MNAC. F. Soler Claveras, 2014"
+    id: 3748
+    created_at: "2014-12-12T10:24:23Z"
+    updated_at: "2014-12-14T21:54:19Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/cupula-del-mnac-francesc-soler-2014/"
+    sku: "W813"
+    price: "63.00"
+    regular_price: "70.00"
+    sale_price: "63.00"
+    price_html: "<del><span class=\"amount\">70,00&euro;</span></del> <ins><span class=\"amount\">63,00&euro;</span></ins>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: true
+    weight: null
+    dimensions: 
+      length: "29.5"
+      width: ""
+      height: "21"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: ""
+    shipping_class_id: null
+    description: "<p><strong>Linogravat i fotografia digital damunt paper fotogràfic.-</strong> El desembre de l'any 2013 vaig pujar al terrat del MNAC i amb la càmera del mòbil hi vaig fer diverses fotos, sobretot de les cúpules. Una d'elles la vaig manipular amb el programa d'Instagram buscant un efecte d'aparició, com en els somnis. <strong>Ara, després d'un any en aquesta fotografia he fet una impressió amb el tòrcul amb un tros de planxa d'alumini al damunt de color verdós, tallant. </strong></p>\n<blockquote><p>...La sensació creada de la imatge és onírica però alhora inquietant, com la majoria dels somnis.</p></blockquote>\n<hr />\n<p><strong>Linograbado y fotografía digital sobre papel fotográfico.- </strong>En diciembre del año 2013 subí a la azotea del MNAC y con la cámara del móvil hice varias fotos, sobretodo de las cúpulas. Una de ellas la manipulé con el programa de Instagram buscando un efecto de aparición, como en los sueños. <strong>Ahora, después de un año, en esta fotografía he hecho una impresión con el tórculo con un trozo de plancha de aluminio encima de color verdoso, cortante</strong>.</p>\n<blockquote><p>... La sensación creada de la imagen es onírica pero a la vez inquietante, como la mayoría de los sueños.</p></blockquote>\n"
+    short_description: "<p><strong>Linogravat i fotografia digital damunt paper fotogràfic.</strong></p>\n<blockquote><p>&#8230;La sensació creada de la imatge és onírica però alhora inquietant, com la majoria dels somnis.</p></blockquote>\n<p><strong>Linograbado y fotografía digital sobre papel fotográfico.</strong></p>\n<blockquote><p>&#8230; La sensación creada de la imagen es onírica pero a la vez inquietante, como la mayoría de los sueños.</p></blockquote>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2366
+      - 2669
+      - 2592
+      - 2861
+      - 2544
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "#emocionaRt"
+      - "-ANALOGIC"
+      - "Exclusividad"
+    tags: 
+      - "Francesc Soler"
+    images: 
+      - 
+        id: 3749
+        created_at: "2014-12-12T10:24:08Z"
+        updated_at: "2014-12-12T10:24:08Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2014/12/CÚPULA-DEL-MNAC.jpg"
+        title: "CÚPULA DEL MNAC"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/12/CÚPULA-DEL-MNAC.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
