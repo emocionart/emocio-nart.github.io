@@ -1,0 +1,8 @@
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "#Emocionart - Descubre, emociónate y compra obras de arte",
+  "url" : "https://www.emocio-nart.com/",
+  "sameAs" : [ "https://www.facebook.com/artinpocket.digital.art",
+    "https://www.twitter.com/artinpocket",
+    "https://plus.google.com/110343213762062165287"] 
+}
