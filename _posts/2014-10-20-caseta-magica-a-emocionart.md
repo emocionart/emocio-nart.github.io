@@ -17,7 +17,7 @@ work: 2606
 <figure class="text-center">
 	<div class="padding-artwork-container">
 		<a href="{{ page.url }}" title="{{ page.title }}">
-			<div class="embed-container embed-container_4-3">
+			<div class="embed-container embed-container_3-4">
 				<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
 			</div>
 		</a>
@@ -42,7 +42,7 @@ No me interrumpas y Hilar el cielo són dos collages de Caseta Mágica que troba
 {% for work in work offset:1 %}
 <figure class="text-center">
 	<div class="padding-artwork-container">
-		<div class="embed-container embed-container_4-3">
+		<div class="embed-container embed-container_3-4">
 			<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
 		</div>
 	</div>

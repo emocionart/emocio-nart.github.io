@@ -1,0 +1,30 @@
+{
+  "name": "emocionart.github.io",
+  "version": "0.0.0",
+  "homepage": "http://www.emocio-nart-com/",
+  "authors": [
+    "freecates <ramongil@ramongil.cat>"
+  ],
+  "description": "Una web app sobre #emocionart una acció d'artinpocket per promocionar i impulsar la compra d'art. Creada per oxygen.cat per a Artinpocket.",
+  "main": "index.html",
+  "keywords": [
+    "art",
+    "artinpocket",
+    "promoció",
+    "digital",
+    "analògic",
+    "acció"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "core-elements": "Polymer/core-elements#~0.5.1",
+    "google-map": "GoogleWebComponents/google-map#~0.4.0"
+  }
+}

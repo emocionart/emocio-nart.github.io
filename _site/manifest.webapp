@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "#emocionaRt",
+  "launch_path": "/index.html",
+  "description": "#Emocionart es una acción de Artinpocket para promocionar e impulsar la compra de arte. Durante tres meses la plataforma impulsará diferentes acciones con el objetivo de acercar el arte e incentivar la compra obras originales a precios asequibles. Con esta acción se pretende romper falsos mítos: ¿el arte es caro? ¡No siempre! ¿El Arte es para una minoría? ¡Falso!",
+  "icons": {
+    "128": "/public/img/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "ramon gil",
+    "url": "http://www.oxygen.cat/"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "ca",
+  "permissions": {
+  },
+  "locales": {
+    "ca": {
+      "name": "#emocionaRt",
+      "description": "#Emocionart es una acción de Artinpocket para promocionar e impulsar la compra de arte. Durante tres meses la plataforma impulsará diferentes acciones con el objetivo de acercar el arte e incentivar la compra obras originales a precios asequibles. Con esta acción se pretende romper falsos mítos: ¿el arte es caro? ¡No siempre! ¿El Arte es para una minoría? ¡Falso!"
+    }
+  }
+}
