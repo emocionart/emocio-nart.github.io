@@ -13,9 +13,14 @@
   if (Pjax.isSupported) {
     new Pjax({
       elements: "a", // default is "a[href], form[action]"
-      selectors: ["title","meta",".sidebar-checkbox",".home-title",".mur-diari",".content"]
+      selectors: ["title","meta",".sidebar-checkbox",".home-title",".mur-diari",".artwork",".content"]
     })
   }
+</script>
+
+<script type="text/javascript" src="/vendor/add-to-homescreen/addtohomescreen.min.js" async></script>
+<script>
+  addToHomescreen();
 </script>
 
 <!--
