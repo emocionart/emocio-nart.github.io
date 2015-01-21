@@ -22,6 +22,7 @@ CACHE:
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.html
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/layout.min.html
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.min.js
+{{ site.url }}{{ site.bower_components.baseurl }}pjax/src/pjax.min.js
 {{ site.url }}{{ site.assets.baseurl }}import-css-js.html
 {{ site.url }}{{ site.bower_components.baseurl }}webcomponentsjs/webcomponents.min.js
 http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400
