@@ -4,5 +4,6 @@
   "url" : "https://www.emocio-nart.com/",
   "sameAs" : [ "https://www.facebook.com/artinpocket.digital.art",
     "https://www.twitter.com/artinpocket",
-    "https://plus.google.com/110343213762062165287"] 
+    "https://plus.google.com/110343213762062165287"],
+   "logo": "/public/img/touch/icon-128x128.png" 
 }
